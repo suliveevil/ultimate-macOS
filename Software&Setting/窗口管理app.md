@@ -2,9 +2,11 @@
 
 ## Mac App Store 软件
 
-### DeskCover 窗口模糊（付费）
+### 窗口模糊（Focus 模式）
 
-### HazeOver 窗口模糊（付费）
+### DeskCover（Mac App Store，付费）
+
+### HazeOver（Mac App Store，付费）
 
 
 
