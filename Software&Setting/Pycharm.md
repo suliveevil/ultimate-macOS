@@ -14,6 +14,8 @@ https://www.jetbrains.com/pycharm/
 
 https://github.com/pingfangx/TranslatorX
 
+https://github.com/pingfangx/jetbrains-in-chinese
+
 ### 安装汉化包
 
 右击PyCharm.app，显示包内容，进入Contents，进入lib
