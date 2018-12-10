@@ -1,4 +1,4 @@
-# 软件
+# [GUI软件](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/GUI)
 
 [TOC]
 
@@ -18,13 +18,7 @@
 
 ## Homebrew&GitHub软件
 
-### 命令行软件
-
-#### glances（系统相关）
-
-#### istats（硬件相关）
-
-#### tree（文件相关）
+### [命令行软件](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/CLI)
 
 
 

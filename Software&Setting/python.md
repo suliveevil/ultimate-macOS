@@ -4,6 +4,12 @@
 
 ## 安装
 
+```bash
+brew install python
+```
+
+
+
 ## 更新
 
 

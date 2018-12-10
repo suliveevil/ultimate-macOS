@@ -1,4 +1,4 @@
-# [命令行软件-列表](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/命令行软件)
+# [命令行软件-列表](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/CLI)
 
 [TOC]
 
