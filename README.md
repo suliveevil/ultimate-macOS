@@ -1,53 +1,23 @@
 # ultimate-macOS
+the last solution of using macOS
 
 [TOC]
 
-the last solution of using macOS
+## Software&Setting 软件、软件设置整理
 
-## 目录（tree -N）
+### [GUI软件](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/GUI)
 
-├── Files.md
+### [CLI软件](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/CLI)
 
-├── Folders.md
+## SystemSetting 系统设置整理
 
-├── README.md
+## Files 文件设置
 
-├── Software&Setting
+## Folders 文件夹设置
 
-│   ├── Emacs Spacemacs.md
+## Functions 功能需求整理
 
-│   ├── Homebrew.md
 
-│   ├── Pycharm.md
 
-│   ├── SublimeText.md
 
-│   ├── Vim SpaceVim.md
 
-│   ├── archive
-
-│   │   └── PyCharm
-
-│   │       └── resources_en.jar
-
-│   ├── 窗口管理.md
-
-│   └── 命令行工具.md
-
-├── Softwares
-
-├── SystemSetting
-
-│   ├── AppleDictionary.md
-
-│   ├── Dock.md
-
-│   ├── Finder.md
-
-│   ├── MenuBar.md
-
-│   ├── QuickLook.md
-
-│   └── TouchID&Terminal.md
-
-└── SystemSettings
