@@ -5,9 +5,9 @@ the last solution of using macOS
 
 ## Software&Setting 软件、软件设置整理
 
-### [GUI软件](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/GUI)
+### [GUI软件](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/GUI/README.md)
 
-### [CLI软件](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/CLI)
+### [CLI软件](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/CLI/README.md)
 
 ## SystemSetting 系统设置整理
 
