@@ -4,7 +4,7 @@
 
 ## TouchBar 设置
 
-##  [TouchBar 增强app](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/GUI/TouchBar%26apps)
+##  [TouchBar 增强app](https://github.com/suliveevil/ultimate-macOS/tree/master/Software%26Setting/GUI/TouchBar%20apps)
 
 ### MTMR
 
