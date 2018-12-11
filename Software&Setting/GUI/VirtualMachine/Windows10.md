@@ -8,7 +8,7 @@
 
 ## Office
 
-![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/Office-Windows10-VM.jpg' width="400"/>  </p></details> 
+<details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/Office-Windows10-VM.jpg' width="400"/>  </p></details> 
 
 ## chocolatey包管理
 
