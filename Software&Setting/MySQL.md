@@ -1,8 +1,7 @@
 # MySQL
 
-<p hidden>
 [TOC]
-</p>
+
 
 ## 配置 MySQL
 
