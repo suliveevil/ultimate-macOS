@@ -14,3 +14,4 @@
 
 ## MenuBar Setting
 
+自动隐藏菜单栏
