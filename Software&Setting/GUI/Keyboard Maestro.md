@@ -2,7 +2,25 @@
 
 ## 软件简介
 
-## 官网
+## Macros
+
+### !lj 自动获取当前浏览器网页页面标题和URL并格式化为markdown链接
+
+```bash
+[%FrontBrowserTitle%](%FrontBrowserURL%)
+```
+
+
+
+<details> <summary> Screenshots </summary> <p float="left">  <bt><img src='' />  </p></details> 
+
+### !pic 自动格式化markdown图片（HTML details）
+
+```html
+<details> <summary> Screenshots </summary> <p float="left">  <bt><img src='%CurrentClipboard%' />  </p></details> 
+```
+
+
 
 ## 参考资料
 
