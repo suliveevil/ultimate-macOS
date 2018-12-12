@@ -6,7 +6,31 @@
 
 ## Snippets
 
+### 文本替换
+
+tips：不要直接文本对文本替换，前面要加上修饰字符，避免非意愿的自动替换
+
+plus：上述tips同样适用于macOS系统自带文本替换
+
+```bash
+# 想把toc替换为[TOC]，则
+
+# 设定输入为!（或其他符号）+文本，本例中设为!toc
+
+# 设定输出为[TOC]
+```
+
+
+
 ## Workflow
+
+### 控制Karabiner-Elements
+
+#### [alfred-maestro iansinnott](https://github.com/iansinnott/alfred-maestro)
+
+An Alfred workflow to execute Keyboard Maestro macros
+
+
 
 
 
