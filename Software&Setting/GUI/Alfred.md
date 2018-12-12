@@ -46,3 +46,7 @@ An Alfred workflow to execute Keyboard Maestro macros
 
 开发工程师常用工具箱
 
+## Send To
+
+[在 Alfred 上实现 Launchbar 的 Instant Send - 少数派](https://sspai.com/post/46088)
+
