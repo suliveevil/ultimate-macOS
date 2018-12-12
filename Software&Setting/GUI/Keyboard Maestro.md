@@ -42,6 +42,14 @@
 <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='%CurrentClipboard%' />  </p></details> 
 ```
 
+## Variables
+
+### 光标定位
+
+```html
+%|%
+```
+
 
 
 ## 参考资料

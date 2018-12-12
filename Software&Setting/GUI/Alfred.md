@@ -26,11 +26,23 @@ plus：上述tips同样适用于macOS系统自带文本替换
 
 ### 控制Karabiner-Elements
 
+[karabiner-elements-profile-switcher awinecki](https://github.com/awinecki/karabiner-elements-profile-switcher)
+
+Handy profile switcher for Karabiner Elements using Alfred Workflows
+
+#### Can’t Use？Try this
+
+[alfred-fixum deanishe](https://github.com/deanishe/alfred-fixum)
+
+Fix Alfred 3 Python workflows affected by the Sierra/Alfred-Workflow background process bug
+
+### 控制 Keyboard Maestro
+
 #### [alfred-maestro iansinnott](https://github.com/iansinnott/alfred-maestro)
 
 An Alfred workflow to execute Keyboard Maestro macros
 
+### [Alfred-Workflow noogel](https://github.com/noogel/Alfred-Workflow)
 
-
-
+开发工程师常用工具箱
 
