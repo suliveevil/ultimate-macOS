@@ -1,5 +1,5 @@
 # ultimate-macOS
-the last solution of using macOS
+The Last Solution of Using macOS
 
 Table of Contents
 =================
