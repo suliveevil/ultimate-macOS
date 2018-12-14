@@ -4,6 +4,10 @@
 
 
 
+## [Mac 键盘快捷键 - Apple 支持](https://support.apple.com/zh-cn/HT201236)
+
+
+
 ## 原则
 
 尽量不修改系统快捷键
