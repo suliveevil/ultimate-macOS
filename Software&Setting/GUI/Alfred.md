@@ -30,11 +30,13 @@ plus：上述tips同样适用于macOS系统自带文本替换
 
 Handy profile switcher for Karabiner Elements using Alfred Workflows
 
-#### Can’t Use？Try this
-
-[alfred-fixum deanishe](https://github.com/deanishe/alfred-fixum)
+### [alfred-fixum deanishe](https://github.com/deanishe/alfred-fixum)
 
 Fix Alfred 3 Python workflows affected by the Sierra/Alfred-Workflow background process bug
+
+### [AlfredWorkflow-Recent-Documents mpco](https://github.com/mpco/AlfredWorkflow-Recent-Documents)
+
+Quickly open recent documents and apps / 快捷打开最近访问的文档或应用
 
 ### 控制 Keyboard Maestro
 

@@ -85,3 +85,9 @@ Table of Contents
 
 <details> <summary> Unix-history-wikipedia </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/Unix_history_wikipedia.svg' />  </p></details> 
 
+## 参考资料
+
+### [my-mac-os nikitavoloboev](https://github.com/nikitavoloboev/my-mac-os)
+
+List of applications and tools that make my macOS experience even more amazing
+
