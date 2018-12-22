@@ -21,3 +21,4 @@ sudo sed -i ".bak" '2s/^/auth       sufficient     pam_tid.so\'$'\n/g' /etc/pam.
 > - 如果需要恢复原文件，请执行：`sudo mv /etc/pam.d/sudo.bak /etc/pam.d/sudo`。
 
 远程登录（如SSH）不会要求刷指纹，可放心使用。
+

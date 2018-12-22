@@ -12,7 +12,9 @@ brew install python
 
 ## 插件
 
-[Google Translate PopClip Extension. 一个免费的谷歌翻译 PopClip 插件](https://github.com/wizyoung/googletranslate.popclipext)
+### [PopClip Extensions](https://pilotmoon.com/popclip/extensions/)
+
+### [Google Translate PopClip Extension](https://github.com/wizyoung/googletranslate.popclipext)
 
 
 
