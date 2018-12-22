@@ -31,3 +31,17 @@ defaults write com.apple.dock static-only -bool TRUE; killall Dock
 ```bash
 defaults write com.apple.dock static-only -bool FALSE; killall Dock
 ```
+### Dock 让已隐藏app的图标虚化
+
+打开终端
+
+```bash
+defaults write com.apple.Dock showhidden -bool YES;killall Dock
+```
+
+取消这个 Dock 栏图标虚化效果
+
+```bash
+defaults write com.apple.Dock showhidden -bool NO;killall Dock
+```
+

@@ -6,6 +6,12 @@
 
 ### [LaunchBar 是个非常典型的学习成本过高的失败产品](https://www.v2ex.com/t/151985)
 
+
+
+### [LaunchBar，加速并简化 Mac 操作的必备利器](https://sspai.com/post/36732)
+
+
+
 ## 简介
 
 ### 剪贴板管理

@@ -4,6 +4,10 @@
 
 
 
+## Powerpack
+
+Alfred 高级功能（付费）
+
 ## Snippets
 
 ### 文本替换
@@ -50,5 +54,11 @@ An Alfred workflow to execute Keyboard Maestro macros
 
 ## Send To
 
-[在 Alfred 上实现 Launchbar 的 Instant Send - 少数派](https://sspai.com/post/46088)
+### [在 Alfred 上实现 Launchbar 的 Instant Send - 少数派](https://sspai.com/post/46088)
+
+
+
+## 参考资料
+
+### [从零开始学习 Alfred：基础功能及设置 - 少数派](https://sspai.com/post/32979)
 
