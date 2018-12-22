@@ -18,5 +18,9 @@
 
 ## 参考资料
 
+### [Mac 键盘快捷键 - Apple 支持](https://support.apple.com/zh-cn/HT201236)
+
+
+
 ### [Mac 实用技巧：记住这几个快捷键，让光标指哪到哪](https://sspai.com/post/32769)
 
