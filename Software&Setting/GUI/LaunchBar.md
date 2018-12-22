@@ -2,16 +2,6 @@
 
 [TOC]
 
-## 参考资料
-
-### [LaunchBar 是个非常典型的学习成本过高的失败产品](https://www.v2ex.com/t/151985)
-
-
-
-### [LaunchBar，加速并简化 Mac 操作的必备利器](https://sspai.com/post/36732)
-
-
-
 ## 简介
 
 ### 剪贴板管理
@@ -36,13 +26,21 @@
 
 ## 优缺点
 
+### 优点
+
 ### 缺点
 
 #### 明确表示暂无支持中文的计划
 
-### 优点
+
+## 参考资料
+
+### [LaunchBar 是个非常典型的学习成本过高的失败产品](https://www.v2ex.com/t/151985)
+
+### [菜单栏上的任意功能，你都可以用 LaunchBar 来控制](https://sspai.com/post/39282)
 
 
+### [LaunchBar，加速并简化 Mac 操作的必备利器](https://sspai.com/post/36732)
 
 
 
