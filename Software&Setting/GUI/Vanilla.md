@@ -18,11 +18,15 @@
 
 ### 无法被Dozer隐藏
 
+### 收费or推广获得免费license
+
 
 
 
 
 ## 参考资料
 
-http://vanilla.wolves.fm/r/Hk4EYXnlN
+~~[我的推广链接](http://vanilla.wolves.fm/r/Hk4EYXnlN)~~
+
+
 

@@ -6,7 +6,13 @@
 
 ### [tesseract: Tesseract Open Source OCR Engine](https://github.com/tesseract-ocr/tesseract)
 
-## 使用
+## 安装使用
+
+```bash
+brew install tesseract --with-all-languages
+```
+
+
 
 ## 与其他软件配合
 

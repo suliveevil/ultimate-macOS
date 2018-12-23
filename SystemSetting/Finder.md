@@ -55,3 +55,6 @@ Easy New File（Mac App Store，收费）
 打开终端，运行以下命令：
 
 chflags nohidden ~/Library/
+
+## [排查Mac中的Finder无限卡住的问题-纸箱猪](https://blog.csdn.net/zzxiang1985/article/details/71514287)
+
