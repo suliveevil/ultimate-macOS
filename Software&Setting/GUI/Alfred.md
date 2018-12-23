@@ -8,6 +8,10 @@
 
 Alfred 高级功能（付费）
 
+[Alfred Powerpack - Take Control of Your Mac and macOS](https://www.alfredapp.com/powerpack/)
+
+
+
 ## Snippets
 
 ### 文本替换
