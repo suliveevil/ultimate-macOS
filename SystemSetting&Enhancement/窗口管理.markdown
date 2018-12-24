@@ -1,0 +1,52 @@
+# Window窗口管理
+
+[TOC]
+
+## 窗口布局
+
+### 键盘控制  
+
+#### Magnet  
+
+##### Mac App Store安装  
+
+#### [Mac的窗口管理工具（chunkwm+skhd）][1]  
+
+#### [Spectacle][2]  
+
+[GitHub地址](https://github.com/eczarny/spectacle)  
+快捷键控制窗口 Window control with simple and customizable keyboard shortcut  
+
+##### 官网/GitHub安装  
+
+### 触摸板鼠标控制  
+
+#### Mosaic 付费  
+
+##### 官网安装  
+
+##### Setapp安装  
+
+### BetterAndBetter  
+
+#### 官网/GitHub安装  
+
+## 窗口模糊（Focus 模式）  
+
+### DeskCover（Mac App Store，付费）  
+
+#### Mac App Store安装  
+
+#### Homebrew安装  
+
+### HazeOver（Mac App Store，付费）  
+
+#### Mac App Store安装  
+
+### BetterAndBetter  
+
+#### 官网/GitHub安装  
+
+
+[1]: https://www.52gvim.com/post/mac-window-manage
+[2]: https://www.spectacleapp.com

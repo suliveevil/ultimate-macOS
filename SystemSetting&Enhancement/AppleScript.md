@@ -25,6 +25,20 @@ tell application "System Events"
 end tell
 ```
 
+### [Mac OS X巧用AppleScript 制作网络位置切换自动化脚本（自动配置PAC 文件） | DeveWork](https://devework.com/automatic-proxy-configuration-pac-applescript.html)
+
+
+
+### [教程《一键切换声音输出》音箱耳机声卡切换](https://bbs.feng.com/read-htm-tid-10060724.html)
+
+
+
+ 
+
+
+
+
+
 ## 参考资料
 
 ### [AppleScript 入门：探索 macOS 自动化 - 少数派](https://sspai.com/post/46912?from=pricetag)
