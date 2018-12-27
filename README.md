@@ -1,10 +1,13 @@
 # ultimate-macOS
+
 The Last Solution of Using macOS
 
 Table of Contents
 =================
 
    * [ultimate-macOS]()
+   
+   * [Table of Contents]()
       * [Peripheral 外设]()
          * [存储设备]()
             * [移动硬盘]()
@@ -28,6 +31,9 @@ Table of Contents
       * [Files 文件设置]()
       * [Folders 文件夹设置]()
       * [Functions 功能需求整理]()
+      * [macOS]()
+      * [参考资料]()
+         * [<a href="https://github.com/nikitavoloboev/my-mac-os">my-mac-os nikitavoloboev</a>]()
 
 ## Peripheral 外设
 
