@@ -11,7 +11,7 @@
 ### homebrew 安装、使用 MySQL
 
 <details>
-<summary>buzhou</summary>
+<summary>步骤</summary>
 
 ```bash
 brew install mysql
