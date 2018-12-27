@@ -10,8 +10,7 @@
 
 ### homebrew 安装、使用 MySQL
 
-<detail>
-
+<details>
 <summary>buzhou</summary>
 
 ```bash
@@ -32,7 +31,7 @@ $ brew services restart mysql
 $ sudo brew services start mysql
 ```
 
-</detail>
+</details>
 
 ## 配置 MySQL
 
