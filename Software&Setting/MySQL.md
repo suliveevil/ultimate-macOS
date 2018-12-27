@@ -6,7 +6,7 @@
 
 ### 推荐下载官方dmg安装MySQL
 
-[通过homebrew安装完mysql后，为什么在系统便好设置里面并没有mysql？ - learnmeahaskell的回答 - SegmentFault 思否](https://segmentfault.com/q/1010000014810201/a-1020000014810415)
+[通过homebrew安装完mysql后，为什么在系统便好设置里面并没有mysql？ - learnmeahaskell](https://segmentfault.com/q/1010000014810201/a-1020000014810415)
 
 ### homebrew 安装、使用 MySQL
 
