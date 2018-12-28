@@ -4,6 +4,9 @@
 
 ## Homebrew 源/仓库
 
+<details>
+<summary>details</summary>
+
 ### 1. Homebrew
 
 Homebrew 源代码仓库
@@ -19,6 +22,8 @@ Homebrew 核心软件仓库
 ### 4. Homebrew Bottles
 
 Homebrew 预编译二进制软件包
+
+</details>
 
 #### 收录仓库
 
