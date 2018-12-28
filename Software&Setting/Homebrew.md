@@ -74,6 +74,8 @@ ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 <details>
 <summary>details</summary>
+
+
 ### 参考文章
 
 #### [USTC Homebrew 源使用帮助](https://mirrors.ustc.edu.cn/help/brew.git.html)
