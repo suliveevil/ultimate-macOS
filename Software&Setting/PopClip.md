@@ -5,7 +5,8 @@
 ## 安装
 
 ```bash
-brew install python
+# 1. Mac App Store
+# 2. Homebrew 安装
 ```
 
 
@@ -16,7 +17,7 @@ brew install python
 
 ### [Google Translate PopClip Extension](https://github.com/wizyoung/googletranslate.popclipext)
 
-
+### 制作插件 [PopMaker: a PopClip extension generator](http://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator/)
 
 
 
