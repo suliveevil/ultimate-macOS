@@ -2,7 +2,7 @@
 
 [TOC]
 
-## Homebrew 源/仓库
+## 源/仓库
 
 <details>
 <summary>details</summary>
@@ -82,7 +82,7 @@ ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 </details>
 
-## Homebrew换源
+## 换源
 
 <details>
 <summary>details</summary>
