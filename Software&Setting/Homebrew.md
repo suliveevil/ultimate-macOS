@@ -22,6 +22,9 @@ Homebrew 预编译二进制软件包
 
 #### 收录仓库
 
+<details>
+<summary>details</summary>
+
 - homebrew/homebrew-core
 - homebrew/homebrew-dupes
 - homebrew/homebrew-php
@@ -29,6 +32,8 @@ Homebrew 预编译二进制软件包
 - homebrew/homebrew-nginx
 - homebrew/homebrew-apache
 - homebrew/homebrew-portable
+
+</details>
 
 ## 安装Homebrew
 
