@@ -23,12 +23,7 @@ Homebrew 核心软件仓库
 
 Homebrew 预编译二进制软件包
 
-</details>
-
 #### 收录仓库
-
-<details>
-<summary>details</summary>
 
 - homebrew/homebrew-core
 - homebrew/homebrew-dupes
@@ -40,20 +35,25 @@ Homebrew 预编译二进制软件包
 
 </details>
 
-## 安装Homebrew
+## 使用
+
+<details>
+<summary>details</summary>
+
+### 安装Homebrew
 
 ```bash
 ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”
 ```
 
-## 搜索应用
+### 搜索应用
 
 ```bash
 # GitHub、app官网等多源头搜索
 brew search AppName
 ```
 
-## 安装应用
+### 安装应用
 
 ```bash
 brew install AppName
@@ -62,23 +62,25 @@ brew install AppName
 brew cask install AppName
 ```
 
-## 更新应用
+### 更新应用
 
 ```bash
 brew upgrade AppName
 ```
 
-## 访问应用官网
+### 访问应用官网
 
 ```bash
 brew home AppName
 ```
 
-## 卸载应用
+### 卸载应用
 
 ```bash
 ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)”
 ```
+
+</details>
 
 ## Homebrew换源
 
