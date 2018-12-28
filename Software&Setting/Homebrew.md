@@ -72,6 +72,8 @@ ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 ## Homebrew换源
 
+<details>
+<summary>details</summary>
 ### 参考文章
 
 #### [USTC Homebrew 源使用帮助](https://mirrors.ustc.edu.cn/help/brew.git.html)
@@ -120,6 +122,8 @@ echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
 source ~/.zshrc
 
 ```
+
+</details>
 
 ## GUI：Cakebrew
 
