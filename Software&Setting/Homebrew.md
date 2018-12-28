@@ -143,6 +143,9 @@ source ~/.zshrc
 
 ## CLI tools
 
+<details>
+<summary>details</summary>
+
 ### [homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade)
 
 #### 使用
@@ -211,4 +214,6 @@ OPTIONS:
     If --quiet or -q is passed, do not show information about installed
     apps or current options.
 ```
+
+</details>
 
