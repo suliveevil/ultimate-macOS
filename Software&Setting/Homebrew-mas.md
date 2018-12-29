@@ -44,8 +44,8 @@ mas list
 <details>
 <summary>details</summary>
 
-ID | Software
----|---
+| ID | Software |
+| :---|:---: |
 1176074088 | Termius (3.5.2)
 1365146243 | ColorConverter (1.0)
 734383760 | ting_en (8.3.2)
