@@ -14,6 +14,9 @@ brew install mas
 mas help
 ```
 
+<details>
+<summary>details</summary>
+
 ```bash
 account    Prints the primary account Apple ID
 help       Display general or command-specific help
@@ -29,6 +32,8 @@ signout    Sign out of the Mac App Store
 upgrade    Upgrade outdated apps from the Mac App Store
 version    Print version number
 ```
+
+</details>
 
 ## list
 
