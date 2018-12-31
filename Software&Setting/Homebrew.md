@@ -217,3 +217,7 @@ OPTIONS:
 
 </details>
 
+## Windows 包管理工具 [Chocolatey](https://chocolatey.org/)
+
+The package manager for Windows
+
