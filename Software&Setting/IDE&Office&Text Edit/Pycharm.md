@@ -2,9 +2,10 @@
 
 [TOC]
 
-
-
 ## 安装
+
+<details>
+<summary>details</summary>
 
 ### Homebrew安装
 
@@ -19,15 +20,19 @@ brew cask install pycharm-ce
 brew cask install pycharm-edu
 ```
 
-
-
 ### 官网下载安装
 
 #### 下载
 
 https://www.jetbrains.com/pycharm/
 
+</details>
+
+
 #### ~~激活~~
+
+<details>
+<summary>details</summary>
 
 ##### 准备注册码、~~激活补丁~~
 
@@ -53,7 +58,13 @@ https://www.jetbrains.com/pycharm/
 
 末尾加入0.0.0.0 account.jetbrains.com
 
+</details>
+
+
 ## 汉化
+
+<details>
+<summary>details</summary>
 
 ### 下载汉化包
 
@@ -70,6 +81,9 @@ https://github.com/pingfangx/jetbrains-in-chinese
 将lib内已存在的resources_en.jar重命名为resources_english.jar
 
 重启PyCharm即可
+
+</details>
+
 
 ## 使用
 
