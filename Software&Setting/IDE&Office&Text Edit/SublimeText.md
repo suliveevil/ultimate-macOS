@@ -1,5 +1,7 @@
 # Sublime text 3
 
+[TOC]
+
 ## 包管理
 
 https://packagecontrol.io/installation
@@ -16,4 +18,50 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 
 ## 包推荐
+
+### ConvertToUTF8（文件编码）
+
+
+
+### BracketHighlighter（匹配成对符号）
+
+
+
+### ColorHighlighter（颜色插件）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### LocalizedMenu（汉化）
+
+
 

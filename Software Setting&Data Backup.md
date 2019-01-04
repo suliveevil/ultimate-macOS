@@ -3,6 +3,11 @@
 [TOC]
 
 ## Alfred.preference(File)
+
+## BetterTouchTool
+
+## FSNotes（iCloud）
+
 ## Keyboard Maestro Macros(Export File)
 ## 欧路词典 词典库配置（Export xml File）
 

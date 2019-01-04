@@ -43,9 +43,15 @@ end tell
 
 ### [AppleScript 入门：探索 macOS 自动化 - 少数派](https://sspai.com/post/46912?from=pricetag)
 
+
+
 ### [Mac AppleScript 自动完成按键](https://www.cnblogs.com/ficow/p/5574882.html)
 
+
+
 ### [Complete list of AppleScript key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
+
+### [手把手教你用 AppleScript 模拟鼠标键盘操作，实现 macOS 系统的自动化操作](https://sspai.com/post/43758)
 
 
 
