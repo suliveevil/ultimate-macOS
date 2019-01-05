@@ -51,11 +51,19 @@ end tell
 
 ### [Complete list of AppleScript key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
 
+
+
 ### [手把手教你用 AppleScript 模拟鼠标键盘操作，实现 macOS 系统的自动化操作](https://sspai.com/post/43758)
 
 
 
 ### [关于AppleScript一些记录](https://bukkake.iteye.com/blog/828322)
 
+
+
 ### [AppleScript入门](https://www.cnblogs.com/whyandinside/archive/2013/05/01/3052767.html)
+
+
+
+### [AppleScript for Python Programmers (Comparison Chart), by Aurelio Jargas](https://aurelio.net/articles/applescript-vs-python.html)
 
