@@ -1,4 +1,4 @@
-# Keyboard Shortcuts
+# Keyboard & Shortcuts
 
 [TOC]
 
@@ -51,3 +51,8 @@
 cmd+option+h
 
 #### 隐藏当前应用窗口
+
+## tips
+
+### [A few keyboard helpers for AppleScript - BrettTerpstra.com](http://brettterpstra.com/2018/05/15/a-few-keyboard-helpers-for-applescript/)
+

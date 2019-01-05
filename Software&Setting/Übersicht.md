@@ -6,7 +6,7 @@
 
 ## 简介
 
-
+a potential GeekTool/NerdTool replacement which uses WebKit and Node.js to generate “widgets” on your dekstop.
 
 ## 参考资料
 
