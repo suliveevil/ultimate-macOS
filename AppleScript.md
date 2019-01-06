@@ -14,6 +14,11 @@
 
 ```applescript
 # 初始状态：显示桌面图标、显示菜单栏、隐藏程序坞（Dock）
+
+# 隐藏除当前（frontmost）app之外的所有app
+tell application "System Events"
+        keystroke (key code b using {option down, command down})
+end tell
  
 # 隐藏桌面图标
 do shell script "defaults write com.apple.finder CreateDesktop -bool false;killall Finder"
