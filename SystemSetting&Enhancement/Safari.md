@@ -13,8 +13,7 @@
 #### Hammerspoon设置⌘+数字切换标签页
 
 ```lua
--- Safari tab keys-------------------------------------------------------------------
-hs.hotkey.bind({"cmd"}, "1", function()
+-- Safari tab keys-----------------------------------------------------------hs.hotkey.bind({"cmd"}, "1", function()
 	hs.applescript._applescript('tell front window of app "Safari" to set current tab to tab 1')
 end)
 hs.hotkey.bind({"cmd"}, "2", function()
@@ -41,7 +40,7 @@ end)
 hs.hotkey.bind({"cmd"}, "9", function()
 	hs.applescript._applescript('tell front window of app "Safari" to set current tab to tab 9')
 end)
----------------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 ```
 
 ## 插件
@@ -60,3 +59,6 @@ end)
 
 #### Vimmy
 
+## 参考资料
+
+### [Mac上Safari浏览器中的键盘快捷键和手势-Apple 支持](https://support.apple.com/zh-cn/guide/safari/cpsh003/mac)

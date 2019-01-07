@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-brew install python
+brew install python3
 ```
 
 ### 安装多个版本
@@ -19,6 +19,9 @@ brew install python
 ##### [Mac多Python版本共存，多个独立Python开发环境切换 - SuYuMingXiangGuan](https://blog.csdn.net/SuYuMingXiangGuan/article/details/69942055)
 
 ##### [Mac OS X 如何使用 多版本 Python - tealex](https://blog.csdn.net/tealex/article/details/79388675)
+
+##### [Mac开发系列之python多版本和环境管理](https://zhuanlan.zhihu.com/p/38226274)
+
 
 #### bash/zsh配置
 

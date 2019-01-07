@@ -1,32 +1,34 @@
 # QuickLook
 
-[TOC]
+## 使用
+
+添加插件后，运行
+
+```bash
+qlmanage -r ; qlmanage -m
+```
+
 
 ## plugins
 
-### documents
+### 文件相关 documents
 
 #### epub.qlgenerator
 
 #### iBooksAuthor.qlgenerator
 
 #### iWork.qlgenerator
-
 #### MultiMarkdown QuickLook.qlgenerator
-
-#### QLMarkdown.qlgenerator
-
-#### QLMarkdownGFM.qlgenerator
-
 #### QLCommonMark.qlgenerator
-
+#### QLMarkdown.qlgenerator
+#### QLMarkdownGFM.qlgenerator
 #### QuickJSON.qlgenerator
-
 #### QuickLookCSV.qlgenerator
-
 #### QuickLookJSON.qlgenerator
 
-### Pictures
+
+### 图片 Pictures
+
 
 #### AnimatedGIF_QL.qlgenerator
 
@@ -34,15 +36,17 @@
 
 #### Procreate Viewer.qlgenerator
 
-### videos
+
+### 视频 videos
 
 #### QuicklookVideo.qlgenerator
 
-### software packages
+
+### 软件 software packages
 
 
 
-### others
+### 压缩包
 
 #### BetterZipQL.by.FARFANOIDE.qlgenerator
 
