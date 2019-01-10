@@ -50,6 +50,57 @@
 %|%
 ```
 
+### [Is it possible to set a KM Variable with a Shell Script](https://forum.keyboardmaestro.com/t/is-it-possible-to-set-a-km-variable-with-a-shell-script/4954)
+
+```bash
+# From a shell script, you can set a Keyboard Maestro variable by using the osascript tool. Something like:
+osascript -e 'on run argv' -e 'tell app "Keyboard Maestro Engine" to setvariable (item 1 of argv) to (item 2 of argv)' -e 'end run' var value
+
+# Replace var and value with the (quoted) variable names and variable values, so maybe:
+osascript -e 'on run argv' -e 'tell app "Keyboard Maestro Engine" to setvariable (item 1 of argv) to (item 2 of argv)' -e 'end run' "lastName" "${NAMES[0]}"
+
+# similarly
+#!/bin/bash
+varName="someTempVar"
+varValue="some temp val like 42"
+osascript -l JavaScript -e "function run(argv) \
+{Application('Keyboard Maestro Engine') \
+.setvariable('$varName', {to:'$varValue'})}"
+
+# or perhaps more flexibly:
+#!/bin/bash
+# Two quoted arguments: KMVarName KMVarValue
+setKMVar() {
+    osascript -l JavaScript -e "function run(argv) \
+    {Application('Keyboard Maestro Engine') \
+    .setvariable('$1', {to:'$2'})}"
+}
+setKMVar "someName" "some string value"
+
+# the equivalent function for shell scripts written in Perl:
+sub setKMVar {
+	my ($vName, $vValue) = @_;
+	`osascript -l JavaScript -e "function run(argv) {Application('Keyboard Maestro Engine') .setvariable('$vName', {to:'$vValue'})}"`
+}
+
+# in an Execute Shell Script written in Perl:
+setKMVar("countFeatures",$features);
+
+# You can read %countFeatures% in subsequent actions in the macro.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 参考资料

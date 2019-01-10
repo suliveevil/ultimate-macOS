@@ -1,0 +1,108 @@
+信息.app
+印象笔记.app
+地图.app
+字体册.app
+屏幕共享.app
+控制台.app
+提醒事项.app
+文件夹操作设置.app
+文本编辑.app
+旁白.app
+日历.app
+欧路词典.app
+系统信息.app
+系统偏好设置.app
+终端.app
+网页截图:注释&批注.app
+脚本编辑器.app
+自动操作.app
+蓝牙文件交换.app
+计算器.app
+访达.app
+通讯录.app
+邮件.app
+预览.app
+
+Alfred 3.app
+Amphetamine.app
+AnyBar.app
+AppleScript 实用工具 .app
+Bartender.app
+BetterAndBetter.app
+BetterTouchTool.app
+CotEditor.app
+Dash.app
+Database Events.app
+DEVONthink Pro Office.app
+Digital Hub Scripting.osax
+DiskimageMounter.app
+Downie.app
+Emacs.app
+FastScripts.app
+Firefox.app
+FolderActionsDispatcher.app
+Folx.app
+ForkLift.app
+Gapplin.app
+Gliffy Diagrams.app
+Google Chrome.app
+Google Earth Pro.app
+Hammerspoon.app
+HazeOver.app
+HelpViewer.app
+iBooks Author.app
+Image Events.app
+iMovie 剪辑 .app
+Instruments.app
+iTerm.app
+iTunes.app
+Keyboard Maestro Engine.app
+Keyboard Maestro.app
+Keynote 讲演 .app
+Lacona.app
+LaunchBar.app
+MacDown.app
+MacVim.app
+MindNode.app
+Moom.app
+Noizio.app
+Numbers 表格 .app
+OmniGraffle.app
+Pages 文稿 .app
+PDFpen.app
+Permute.app
+Photo Library Migration Utility.app
+PopClip.app
+PrinterProxy.app
+Python.app
+QuickTime Playerapp
+Reggy.app
+Safari 浏览器 .app
+Script Debugger.app
+Simulator.app
+Sketch.app
+Skim.app
+Spark.app
+SpeechRecognitionServer.app
+StandardAdditions.osax
+SubEthaEdit.app
+Suspicious Package.app
+syncuid.app
+System Events.app
+TeaCode.app
+TextMate.app
+TextSoap.app
+The Unarchiverapp
+Thunderbird.app
+TimingHelper.app
+TrackingTime | Time Tracker.app
+Transmit.app
+TripMode.app
+Ubersicht.app
+uti_exporter.app
+VLC.app
+VOX.app
+Wish.app
+Xcode.app
+Yummy FTP Pro.app
+
