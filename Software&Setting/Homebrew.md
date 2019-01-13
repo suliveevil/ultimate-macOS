@@ -82,6 +82,10 @@ ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 </details>
 
+### 参考文章
+
+#### [9 条进阶命令，把 HomeBrew 打造成管理第三方应用的 App Store](https://sspai.com/post/43451)
+
 ## 换源
 
 <details>
