@@ -95,3 +95,7 @@ pandoc [OPTIONS] [FILES]
   -v                    --version                                       
   -h                    --help 
 ```
+
+## pandoc 版 markdown
+
+[Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/)
