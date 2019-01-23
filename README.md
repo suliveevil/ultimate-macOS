@@ -4,6 +4,11 @@ The Last Solution of Using macOS
 
 [TOC]
 
+## Tips & Tricks
+
+### Mac App Store 
+
+搜索  `Editor Choice` ，展示所有 AppStore 编辑精选app
 
 ## 外设&附件 Peripheral & Accessories
 
