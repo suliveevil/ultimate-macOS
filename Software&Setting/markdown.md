@@ -2,6 +2,7 @@
 
 [TOC]
 
+<<<<<<< HEAD
 ## 首行缩进
 
 `&#160;&#160;&#160;&#160;` 与 `&nbsp;`
@@ -36,6 +37,8 @@ XSL 包括三部分：
 
 
 
+=======
+>>>>>>> parent of b446021... Update markdown.md
 ## CommonMark
 
 [CommonMark Spec - version 0.28](https://spec.commonmark.org/0.28/)
