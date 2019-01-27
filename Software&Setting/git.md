@@ -16,3 +16,7 @@
 
 ### [IP/服务器github.com的信息 - 站长工具](http://ip.tool.chinaz.com/github.com)
 
+## [使用Git Submodule管理子模块 - 姜家志](https://segmentfault.com/a/1190000003076028)
+
+[使用Git Submodule管理子模块 - 姜家志 - 简书](https://www.jianshu.com/p/b49741cb1347#%E5%88%A0%E9%99%A4Submodule)
+
