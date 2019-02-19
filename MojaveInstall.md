@@ -34,3 +34,7 @@ sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallme
 
 
 
+
+
+
+
