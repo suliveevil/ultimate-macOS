@@ -6,7 +6,7 @@ The Last Solution of Using macOS
 
 ## Tips & Tricks
 
-### Mac App Store 
+### Mac App Store
 
 搜索  `Editor Choice` ，展示所有 AppStore 编辑精选app
 
