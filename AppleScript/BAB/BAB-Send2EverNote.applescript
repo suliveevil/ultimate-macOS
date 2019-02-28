@@ -1,1 +1,0 @@
-tell application id "com.yinxiang.Mac"	activate	set theNote to create note with text "SelectedText"	open note window with theNoteend tell
