@@ -21,9 +21,9 @@ The Last Solution of Using macOS
 
 ## SystemSetting 系统设置整理
 
-### my login item
+### 用户与群组
 
-<details> <summary> 登录时启动的app </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/myLoginItem2019-03-02.png' />  </p></details>
+<details> <summary> 登录项 </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/myLoginItem2019-03-02.png' />  </p></details>
 
 
 ## Files 文件设置
