@@ -91,6 +91,14 @@ ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 <details>
 <summary>details</summary>
 
+## 暴力解锁
+
+在终端下执行： `brew install xxxxxxx` 结果报错：
+
+Error: Another active Homebrew update process is already in progress.Please wait for it to finish or terminate it to continue.
+
+解决方法：`rm -rf /usr/local/var/homebrew/locks`
+
 
 ### 参考文章
 
