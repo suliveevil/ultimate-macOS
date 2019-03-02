@@ -21,6 +21,11 @@ The Last Solution of Using macOS
 
 ## SystemSetting 系统设置整理
 
+### my login item
+
+<details> <summary> 登录时启动的app </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/myLoginItem2019-03-02.png' />  </p></details>
+
+
 ## Files 文件设置
 
 ## Folders 文件夹设置
@@ -32,7 +37,7 @@ The Last Solution of Using macOS
 
 ### macOS
 
-<details> <summary> Unix-history-wikipedia </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/Unix_history_wikipedia.svg' />  </p></details> 
+<details> <summary> Unix-history-wikipedia </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/Unix_history_wikipedia.svg' />  </p></details>
 
 ### [my-mac-os nikitavoloboev](https://github.com/nikitavoloboev/my-mac-os)
 
