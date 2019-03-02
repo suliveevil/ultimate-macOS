@@ -23,7 +23,10 @@ The Last Solution of Using macOS
 
 ### 用户与群组
 
-<details> <summary> 登录项 </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/myLoginItem2019-03-02.png' />  </p></details>
+<details> <summary> 登录项 </summary> <p float="left">
+	使用 BAB 长截图功能滚动截图
+	<bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/myLoginItem2019-03-02.png' />
+	</p></details>
 
 
 ## Files 文件设置
