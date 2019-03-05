@@ -32,6 +32,11 @@ plus：上述tips同样适用于macOS系统自带文本替换
 
 ## Workflow
 
+### [Recent Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents)
+
+快速打开最近访问的文档、文件夹、应用
+快速打开当前应用的最近访问文件
+
 ### 控制Karabiner-Elements
 
 [karabiner-elements-profile-switcher awinecki](https://github.com/awinecki/karabiner-elements-profile-switcher)
@@ -42,9 +47,7 @@ Handy profile switcher for Karabiner Elements using Alfred Workflows
 
 Fix Alfred 3 Python workflows affected by the Sierra/Alfred-Workflow background process bug
 
-### [AlfredWorkflow-Recent-Documents mpco](https://github.com/mpco/AlfredWorkflow-Recent-Documents)
 
-Quickly open recent documents and apps / 快捷打开最近访问的文档或应用
 
 ### 控制 Keyboard Maestro
 
