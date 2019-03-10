@@ -2,6 +2,9 @@
 
 The Last Solution of Using macOS
 
+[GitHub Visualizer](https://veniversum.me/git-visualizer/?owner=suliveevil&repo=ultimate-macOS)
+
+
 [TOC]
 
 ## Tips & Tricks
@@ -41,6 +44,11 @@ The Last Solution of Using macOS
 ### macOS
 
 <details> <summary> Unix-history-wikipedia </summary> <p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/Unix_history_wikipedia.svg' />  </p></details>
+
+### [An A-Z Index of the Apple macOS (OSX) command line - SS64 Command line reference](https://ss64.com/osx/)
+
+### [Key bindings - macOS - SS64.com](https://ss64.com/osx/syntax-keybindings.html)
+
 
 ### [my-mac-os nikitavoloboev](https://github.com/nikitavoloboev/my-mac-os)
 
