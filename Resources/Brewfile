@@ -100,7 +100,7 @@ brew "tig"
 brew "tldr"
 brew "tmux"
 brew "tree"
-brew "vim", link: false
+brew "vim"
 brew "vitetris", link: false
 brew "watson"
 brew "wget"
