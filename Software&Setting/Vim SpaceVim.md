@@ -4,13 +4,22 @@
 
 
 
-## Vim
+## Vim：Visual interface improved
 
-## 命令行软件
+### Vim 模式
 
-### vim
+#### 编辑模式（命令模式）
 
-### vi
+#### 输入模式
+
+#### 末行模式
+
+#### 可视化模式（块）
+
+
+
+
+### vi：Visual interface
 
 ## 插件
 
