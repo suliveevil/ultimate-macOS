@@ -45,3 +45,10 @@ defaults write com.apple.Dock showhidden -bool YES;killall Dock
 defaults write com.apple.Dock showhidden -bool NO;killall Dock
 ```
 
+## Dock 设置自动隐藏后的呼出延时
+
+```shell
+defaults write com.apple.dock autohide-delay -int 0 && killall Dock
+# defaults write com.apple.Dock autohide-delay -float 0 && killall Dock
+# defaults delete com.apple.Dock autohide-delay && killall Dock
+```
