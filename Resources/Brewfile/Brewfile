@@ -1,9 +1,9 @@
 tap "buo/cask-upgrade"
 tap "homebrew/bundle"
-tap "homebrew/cask", "https://mirrors.ustc.edu.cn/homebrew-cask.git"
+tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
-tap "homebrew/core", "https://mirrors.ustc.edu.cn/homebrew-core.git"
+tap "homebrew/core"
 tap "homebrew/services"
 tap "jesseduffield/lazygit"
 tap "josh-/qlscpt"
@@ -100,7 +100,7 @@ brew "tig"
 brew "tldr"
 brew "tmux"
 brew "tree"
-brew "vim"
+brew "vim", link: false
 brew "vitetris", link: false
 brew "watson"
 brew "wget"
@@ -111,16 +111,15 @@ brew "zsh"
 brew "jesseduffield/lazygit/lazygit"
 brew "keith/formulae/reminders-cli"
 brew "timothyye/tap/ydict"
-cask "airdroid"
 cask "anki"
 cask "anybar"
 cask "aria2gui"
 cask "astropad"
 cask "background-music"
+cask "bbedit"
 cask "blender"
 cask "blockblock"
-cask "bookends"
-cask "cheatsheet"
+cask "calibre"
 cask "cyberduck"
 cask "db-browser-for-sqlite"
 cask "dbeaver-community"
@@ -130,22 +129,17 @@ cask "do-not-disturb"
 cask "dozer"
 cask "drawio"
 cask "duet"
-cask "eclipse-ide"
 cask "emacs"
-cask "figma"
 cask "firefox"
-cask "firefox-developer-edition"
-cask "fluor"
 cask "flux"
 cask "font-source-code-pro"
 cask "fork"
 cask "free-download-manager"
 cask "geany"
 cask "gimp"
-cask "gitnote"
+cask "github"
 cask "gnucash"
-cask "google-chrome"
-cask "google-earth-pro"
+cask "google-chrome-beta"
 cask "gpodder"
 cask "hammerspoon"
 cask "handbrake"
@@ -154,7 +148,6 @@ cask "icons8"
 cask "ieasemusic"
 cask "iina"
 cask "imageoptim"
-cask "inkscape"
 cask "insomnia"
 cask "intel-power-gadget"
 cask "iterm2"
@@ -164,12 +157,14 @@ cask "kap"
 cask "karabiner-elements"
 cask "kdiff3"
 cask "kextviewr"
+cask "keyboard-maestro"
 cask "keyboardcleantool"
 cask "keycastr"
 cask "kindlegen"
 cask "knockknock"
 cask "lantern"
 cask "latest"
+cask "launchbar"
 cask "libreoffice"
 cask "libreoffice-language-pack"
 cask "licecap"
@@ -177,11 +172,10 @@ cask "listen1"
 cask "lulu"
 cask "macdown"
 cask "macs-fan-control"
-cask "mactex"
-cask "mark-text"
-cask "mathpix-snipping-tool"
+cask "macvim"
 cask "motrix"
 cask "mtmr"
+cask "neteasemusic"
 cask "nutstore"
 cask "obs"
 cask "omnidisksweeper"
@@ -194,15 +188,13 @@ cask "podcastmenu"
 cask "pomotodo"
 cask "popmaker"
 cask "powershell-preview"
+cask "prefs-editor"
 cask "pycharm"
 cask "qladdict"
 cask "qldds"
-cask "qlmarkdown-gfm"
 cask "qlstephen"
 cask "qlvideo"
-cask "r-app"
 cask "rcdefaultapp"
-cask "recents"
 cask "reggy"
 cask "reikey"
 cask "rescuetime"
@@ -213,20 +205,17 @@ cask "showyedge"
 cask "shuttle"
 cask "skim"
 cask "sloth"
-cask "smcfancontrol"
+cask "sourcetree"
 cask "squirrel"
 cask "steam"
 cask "sublime-text"
 cask "suspicious-package"
-cask "syncthing-app"
 cask "taskexplorer"
 cask "teamviewer"
-cask "tencent-lemon"
 cask "terminus"
 cask "textmate"
 cask "thunderbird"
 cask "tickeys"
-cask "twig"
 cask "typora"
 cask "unicodechecker"
 cask "upterm"
@@ -235,28 +224,30 @@ cask "vagrant"
 cask "vimr"
 cask "visual-studio-code"
 cask "vlc"
-cask "wewechat"
 cask "whatpulse"
 cask "wireshark"
 cask "workflowy"
 cask "xquartz"
 cask "zotero"
 cask "josh-/qlscpt/qlscpt"
+mas "2048 6x6", id: 892912527
 mas "AdBlock", id: 1402042596
 mas "Adblock Plus", id: 1432731683
 mas "AmazePhotos", id: 1441404964
 mas "Amphetamine", id: 937984704
+mas "App Language Chooser", id: 451732904
 mas "AppBeBack", id: 1317253465
 mas "Bandwidth+", id: 490461369
 mas "Bear", id: 1091189122
 mas "Bitwarden", id: 1352778147
 mas "Blackmagic Disk Speed Test", id: 425264550
 mas "CleanerForXcode", id: 1296084683
+mas "Cloud Outliner", id: 1066183430
 mas "Commander One", id: 1035236694
 mas "CotEditor", id: 1024640650
 mas "DaisyDisk", id: 411643860
+mas "DefaultLanguage", id: 1453278898
 mas "Digital Clock 3D", id: 661632558
-mas "Display Menu", id: 549083868
 mas "DockTime", id: 508034739
 mas "Earth 3D", id: 476566660
 mas "Easy New File", id: 1162194131
@@ -264,11 +255,7 @@ mas "Eudb_en", id: 402380914
 mas "Exporter", id: 1099120373
 mas "Fancy Text", id: 1454211033
 mas "fHash", id: 1055555711
-mas "File Peek", id: 1194883472
-mas "FileInsight", id: 777031670
 mas "Fleet", id: 1183559550
-mas "Flow", id: 1423210932
-mas "Folder icon", id: 1084224628
 mas "FSNotes", id: 1277179284
 mas "FutuNiuniuPro", id: 1058271449
 mas "Gapplin", id: 768053424
@@ -280,15 +267,13 @@ mas "Hex Fiend", id: 1342896380
 mas "iBooks Author", id: 490152466
 mas "iHex", id: 909566003
 mas "iHosts", id: 1102004240
-mas "iMovie", id: 408981434
 mas "Infographics Lab - Templates", id: 577411683
-mas "iRelax", id: 1343197843
+mas "iStatistica", id: 1025822138
 mas "iWall", id: 1214761683
+mas "iYingYue", id: 1050489667
 mas "Jietu", id: 1059334054
 mas "JSONModeler", id: 1143129421
-mas "Kaka", id: 1434172933
 mas "Keka", id: 470158793
-mas "Key Codes", id: 414568915
 mas "KeyboardLocker", id: 1444996429
 mas "Keymou", id: 449863619
 mas "Keynote", id: 409183694
@@ -296,7 +281,6 @@ mas "Kindle", id: 405399194
 mas "Launchey 2", id: 1365625021
 mas "MacFamilyTree 8", id: 1037755919
 mas "Magic Sort List", id: 883969157
-mas "Magnet", id: 441258766
 mas "Maipo", id: 789066512
 mas "Mathpix Snipping Tool", id: 1349670778
 mas "Micro Snitch", id: 972028355
@@ -311,13 +295,13 @@ mas "NotePlan", id: 1137020764
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "PopClip", id: 445189367
+mas "QQ", id: 451108668
 mas "QQMusic", id: 595615424
 mas "QR Creator Mini", id: 1185353935
 mas "QR Journal", id: 483820530
 mas "QuickMoveFile", id: 1414457383
 mas "Recording Lite", id: 1017198069
 mas "Reeder", id: 880001334
-mas "RegexToolBox", id: 954196690
 mas "Request-Class", id: 1076223220
 mas "RMS sharing", id: 908570259
 mas "RunCat", id: 1429033973
@@ -331,12 +315,10 @@ mas "Source Player Lite", id: 1444389594
 mas "Spark", id: 1176895641
 mas "Speedtest", id: 1153157709
 mas "Spelling Alphabet", id: 499351638
-mas "sPlayerFree", id: 1065301132
 mas "SubEthaEdit", id: 728530824
 mas "Telegram", id: 747648890
 mas "Termius", id: 1176074088
 mas "The Unarchiver", id: 425424353
-mas "Theine", id: 955848755
 mas "Time Out", id: 402592703
 mas "Time Sink", id: 404363161
 mas "ting_en", id: 734383760
@@ -346,7 +328,6 @@ mas "VOX", id: 461369673
 mas "WeChat", id: 836500024
 mas "Wunderlist", id: 410628904
 mas "Xcode", id: 497799835
-mas "xShare", id: 1226829116
 mas "Yoink", id: 457622435
 mas "ZoomMe", id: 1437487517
 mas "ZoomNotes Desktop", id: 986761220
