@@ -16,8 +16,10 @@ sudo sed -i ".bak" '2s/^/auth sufficient pam_tid.so\'$'\n/g' /etc/pam.d/sudo
 
 ## 参考资料
 
+[一条命令让您的 macOS 用 Touch ID 授权 sudo！](https://sspai.com/post/42038)
+
 [How to use sudo with Touch ID on your Mac](https://www.imore.com/how-use-sudo-your-mac-touch-id)
 
-[一条命令让您的 macOS 用 Touch ID 授权 sudo！](https://sspai.com/post/42038)
+
 
 
