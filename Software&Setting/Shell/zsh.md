@@ -24,7 +24,12 @@ chsh -s /bin/zsh
 | [antigen](https://github.com/zsh-users/antigen) | 待补充 | 2018-01-16   | v |  |
 | oh-my-zsh | 待补充 | 2019-03-10 | v |  |
 | [Prezto](https://github.com/sorin-ionescu/prezto) | 待补充 | 2019-01-19 | v |  |
+| [zgen](https://github.com/tarjoilija/zgen) |  | 2018-12-21 |  | |
 | [zplug](https://github.com/zplug/zplug) | 待补充 | 2018-07-04 | v |  |
+|  |  |  |  | |
+|  |  |  |  | |
+|  |  |  |  | |
+|  |  |  |  | |
 
 ## 使用 oh-my-zsh
 
