@@ -1,17 +1,9 @@
 # Touch ID 用指纹授权终端sudo权限
 
-Related Articles:
 
-in Chinese:
-
-https://sspai.com/post/42038
-
-in English:
-
-https://www.imore.com/how-use-sudo-your-mac-touch-id
 
 ```bash
-sudo sed -i ".bak" '2s/^/auth       sufficient     pam_tid.so\'$'\n/g' /etc/pam.d/sudo
+sudo sed -i ".bak" '2s/^/auth sufficient pam_tid.so\'$'\n/g' /etc/pam.d/sudo
 ```
 
 > **命令说明**
@@ -21,4 +13,11 @@ sudo sed -i ".bak" '2s/^/auth       sufficient     pam_tid.so\'$'\n/g' /etc/pam.
 > - 如果需要恢复原文件，请执行：`sudo mv /etc/pam.d/sudo.bak /etc/pam.d/sudo`。
 
 远程登录（如SSH）不会要求刷指纹，可放心使用。
+
+## 参考资料
+
+[How to use sudo with Touch ID on your Mac](https://www.imore.com/how-use-sudo-your-mac-touch-id)
+
+[一条命令让您的 macOS 用 Touch ID 授权 sudo！](https://sspai.com/post/42038)
+
 
