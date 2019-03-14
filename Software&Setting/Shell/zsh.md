@@ -46,8 +46,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 |  | [hstr](https://github.com/dvorka/hstr) | | 2019-02-02 |  |  |
 |  | [ntfy](https://github.com/dschep/ntfy) | | 2019-03-05 |  |  |
 | - | [zsh-history](https://github.com/b4b4r07/zsh-history) | --- | 2017-03-10 | --- | --- |
-| 必备 | [z.lua](https://github.com/skywind3000/z.lua) | 快速**路径切换**（类似 z.sh / autojump / fasd），兼容 Windows 和所有 Posix Shell 以及 Fish Shell | 2019-03-09 |  |  |
-|  | [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | | 2018-11-25 | v0.5.0 |  |
+| 必备 | [z.lua](https://github.com/skywind3000/z.lua) | 快速**路径切换**（类似 z.sh / autojump / fasd），兼容 Windows 和所有 Posix Shell 以及 Fish Shell | 2019-03-09 | v1.7.0 |  |
+| 必备 | [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | | 2018-11-25 | v0.5.0 |  |
 |  | [zsh-completions](https://github.com/zsh-users/zsh-completions) | | 2018-12-14 | v0.30.3 |  |
 |  | [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | | 2019-01-21 |  |  |
 |  |  | |  |  |  |
