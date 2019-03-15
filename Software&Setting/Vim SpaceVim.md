@@ -16,10 +16,16 @@
 
 #### 可视化模式（块）
 
-
-
-
 ### vi：Visual interface
+
+## 技巧
+
+### 追加 sudo 权限
+
+```shell
+:w !sudo tee %
+```
+[How does the vim “write with sudo trick work?”](https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work)
 
 ## 插件
 
