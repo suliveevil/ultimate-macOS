@@ -69,3 +69,5 @@ An Alfred workflow to execute Keyboard Maestro macros
 
 ### [从零开始学习 Alfred：基础功能及设置 - 少数派](https://sspai.com/post/32979)
 
+### [Alfred Workflows for Advanced Users](https://computers.tutsplus.com/tutorials/alfred-workflows-for-advanced-users--mac-60963)
+
