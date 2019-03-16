@@ -16,7 +16,6 @@ brew "python"
 brew "icu4c"
 brew "archey"
 brew "autoconf-archive"
-brew "autojump"
 brew "automake"
 brew "axel"
 brew "bash"
@@ -30,6 +29,7 @@ brew "cookiecutter"
 brew "coreutils"
 brew "cowsay"
 brew "curseofwar"
+brew "darksky-weather"
 brew "diffuse"
 brew "emacs"
 brew "libtool"
@@ -69,6 +69,7 @@ brew "midnight-commander"
 brew "mit-scheme"
 brew "mosh"
 brew "mpg123"
+brew "nano"
 brew "neovim"
 brew "nethack"
 brew "node"
@@ -108,6 +109,7 @@ brew "wifi-password"
 brew "xdot"
 brew "zlib"
 brew "zsh"
+brew "zsh-syntax-highlighting"
 brew "jesseduffield/lazygit/lazygit"
 brew "keith/formulae/reminders-cli"
 brew "timothyye/tap/ydict"
@@ -118,6 +120,7 @@ cask "aria2gui"
 cask "astropad"
 cask "background-music"
 cask "bbedit"
+cask "bilibili"
 cask "blender"
 cask "blockblock"
 cask "calibre"
@@ -131,8 +134,15 @@ cask "dozer"
 cask "drawio"
 cask "duet"
 cask "emacs"
+cask "find-any-file"
 cask "firefox"
+cask "flash-npapi"
+cask "flash-ppapi"
 cask "flux"
+cask "font-genjyuugothic"
+cask "font-genshingothic"
+cask "font-noto-sans-cjk-sc"
+cask "font-noto-serif-cjk-sc"
 cask "font-source-code-pro"
 cask "fork"
 cask "free-download-manager"
@@ -173,6 +183,7 @@ cask "listen1"
 cask "lulu"
 cask "macdown"
 cask "macs-fan-control"
+cask "mactex"
 cask "macvim"
 cask "motrix"
 cask "mtmr"
@@ -181,6 +192,7 @@ cask "nutstore"
 cask "obs"
 cask "omnidisksweeper"
 cask "onyx"
+cask "opera"
 cask "oracle-jdk"
 cask "oversight"
 cask "phew"
@@ -209,6 +221,7 @@ cask "sloth"
 cask "sourcetree"
 cask "squirrel"
 cask "steam"
+cask "sublime-merge"
 cask "sublime-text"
 cask "suspicious-package"
 cask "taskexplorer"
@@ -232,6 +245,7 @@ cask "workflowy"
 cask "xquartz"
 cask "zotero"
 cask "josh-/qlscpt/qlscpt"
+cask "lukakerr/casks/pine"
 mas "2048 6x6", id: 892912527
 mas "AdBlock", id: 1402042596
 mas "Adblock Plus", id: 1432731683
@@ -265,11 +279,13 @@ mas "Gladys", id: 1382386877
 mas "Go2Shell", id: 445770608
 mas "HazeOver", id: 430798174
 mas "Helium", id: 1054607607
+mas "HeliumLift", id: 1018899653
 mas "Hex Fiend", id: 1342896380
 mas "iBooks Author", id: 490152466
 mas "iHex", id: 909566003
 mas "iHosts", id: 1102004240
 mas "Infographics Lab - Templates", id: 577411683
+mas "iStat Menus", id: 1319778037
 mas "iStatistica", id: 1025822138
 mas "iWall", id: 1214761683
 mas "iYingYue", id: 1050489667
@@ -296,6 +312,7 @@ mas "Moom", id: 419330170
 mas "NotePlan", id: 1137020764
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "PiPifier", id: 1160374471
 mas "PopClip", id: 445189367
 mas "QQ", id: 451108668
 mas "QQMusic", id: 595615424
@@ -303,7 +320,6 @@ mas "QR Creator Mini", id: 1185353935
 mas "QR Journal", id: 483820530
 mas "QuickMoveFile", id: 1414457383
 mas "Recording Lite", id: 1017198069
-mas "Reeder", id: 880001334
 mas "Request-Class", id: 1076223220
 mas "RMS sharing", id: 908570259
 mas "RunCat", id: 1429033973
