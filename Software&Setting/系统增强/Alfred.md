@@ -1,5 +1,7 @@
 # Alfred
 
+我的 Alfred 偏好设置: [suliveevil/Alfred.alfredpreferences](https://github.com/suliveevil/Alfred.alfredpreferences)
+
 [TOC]
 
 
