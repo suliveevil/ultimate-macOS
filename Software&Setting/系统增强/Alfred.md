@@ -37,36 +37,14 @@ plus：上述tips同样适用于macOS系统自带文本替换
 
 ## Workflow
 
-### [Recent Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents)
-
-快速打开最近访问的文档、文件夹、应用
-快速打开当前应用的最近访问文件
-
-### 控制Karabiner-Elements
-
-[karabiner-elements-profile-switcher awinecki](https://github.com/awinecki/karabiner-elements-profile-switcher)
-
-Handy profile switcher for Karabiner Elements using Alfred Workflows
-
-### [alfred-fixum deanishe](https://github.com/deanishe/alfred-fixum)
-
-Fix Alfred 3 Python workflows affected by the Sierra/Alfred-Workflow background process bug
-
-
-
-### 控制 Keyboard Maestro
-
-#### [alfred-maestro iansinnott](https://github.com/iansinnott/alfred-maestro)
-
-An Alfred workflow to execute Keyboard Maestro macros
-
-### [Alfred-Workflow noogel](https://github.com/noogel/Alfred-Workflow)
-
-开发工程师常用工具箱
-
-## Send To
-
-### [在 Alfred 上实现 Launchbar 的 Instant Send - 少数派](https://sspai.com/post/46088)
+| workflow | hotkey / keyword | do |
+| --- | --- | --- |
+| [Recent Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents) | | 快速打开最近访问的文档、文件夹、应用,快速打开当前应用的最近访问文件 |
+| [karabiner-elements-profile-switcher awinecki](https://github.com/awinecki/karabiner-elements-profile-switcher) | `kep` | Handy profile switcher for Karabiner Elements using Alfred Workflows |
+| [alfred-fixum deanishe](https://github.com/deanishe/alfred-fixum) | | Fix Alfred 3 Python workflows affected by the Sierra/Alfred-Workflow background process bug |
+| [alfred-maestro iansinnott](https://github.com/iansinnott/alfred-maestro) | | An Alfred workflow to execute Keyboard Maestro macros |
+| [Alfred-Workflow noogel](https://github.com/noogel/Alfred-Workflow) | | 开发工程师常用工具箱 |
+| Send To | | [在 Alfred 上实现 Launchbar 的 Instant Send - 少数派](https://sspai.com/post/46088) |
 
 
 
