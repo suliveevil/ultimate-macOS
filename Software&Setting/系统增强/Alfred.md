@@ -3,13 +3,18 @@
 [TOC]
 
 
-
 ## Powerpack
 
 Alfred 高级功能（付费）
 
 [Alfred Powerpack - Take Control of Your Mac and macOS](https://www.alfredapp.com/powerpack/)
 
+## Theme
+
+<details>
+<summary>ultimate macOS</summary>
+<p float="left">  <bt><img src='https://github.com/suliveevil/ultimate-macOS/blob/master/Resources/Alfred-Theme-ultimate-macOS.png' />  </p>
+</details>
 
 
 ## Snippets
