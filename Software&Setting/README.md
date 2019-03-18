@@ -1,4 +1,4 @@
-# 2.3.7p456 (2018-03-28 revision 63024Software & Setting
+# Software & Setting
 
 ## macOS 自带的编程语言-2019-03-14
 
