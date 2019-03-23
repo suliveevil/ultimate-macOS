@@ -8,6 +8,12 @@
 
 ## [Git 内部原理](https://www.open-open.com/lib/view/open1328070620202.html)
 
+## untrack
+
+## ignore
+
+
+
 ## 解决上传慢问题
 
 ### [解决git停留在writing objects和上传慢的情况](https://www.jianshu.com/p/704dc6b0bb18)
