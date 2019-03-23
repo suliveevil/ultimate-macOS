@@ -56,3 +56,4 @@ minted is a LaTeX package that provides syntax highlighting using the Pygments l
 
 #### [如何在mac的latex上使用minted宏包？](https://www.zhihu.com/question/33587455)
 
+[How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel](https://castel.dev/post/lecture-notes-1/)

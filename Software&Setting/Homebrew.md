@@ -80,6 +80,12 @@ brew home AppName
 ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)”
 ```
 
+### 强制解锁
+
+```shell
+rm -rf /usr/local/var/homebrew/locks
+```
+
 </details>
 
 ### 参考文章
