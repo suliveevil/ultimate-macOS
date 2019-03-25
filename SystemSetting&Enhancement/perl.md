@@ -1,4 +1,8 @@
-# perl
+# Perl
+
+[TOC]
+
+Perl语言的发明人Larry Wall说，好的程序员有3种美德： 懒惰、急躁和傲慢(Laziness, Impatience and Hubris)。
 
 ```bash
 $ perl --version
