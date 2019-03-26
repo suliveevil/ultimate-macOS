@@ -2,6 +2,11 @@
 
 [TOC]
 
+
+## 中文文档
+
+[Python Documentation](https://docs.python.org/zh-cn/3/)
+
 ## 安装
 
 ```bash
@@ -126,6 +131,9 @@ PYTHONDEVMODE: enable the development mode.
 
 
 ## 卸载
+
+
+
 
 
 
