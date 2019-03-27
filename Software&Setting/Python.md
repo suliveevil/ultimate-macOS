@@ -54,6 +54,21 @@ source ~/.bashrc
 5、验证，在终端（terminal）中输入python2即代表是Python2.x版本，输入python3即代表是Python3.x版本。
 </details>
 
+
+
+```shell
+suliveevil@localhost:~% python2
+Python 2.7.16 (default, Mar  4 2019, 09:01:38) 
+[GCC 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.11.45.5)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> exit()
+suliveevil@localhost:~% python3
+Python 3.7.2 (default, Feb 12 2019, 08:15:36) 
+[Clang 10.0.0 (clang-1000.11.45.5)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> exit()
+```
+
 ## 使用
 
 ```bash
