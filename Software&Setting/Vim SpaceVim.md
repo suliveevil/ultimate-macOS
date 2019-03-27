@@ -2,8 +2,6 @@
 
 [TOC]
 
-
-
 ## Vim：Visual interface improved
 
 ### Vim 模式
@@ -58,6 +56,7 @@ set tags=./.tags;,.tags
 
 ### LeaderF
 
+## SpaceVim
 
 
 ## GUI软件
@@ -67,7 +66,5 @@ set tags=./.tags;,.tags
 ## 参考文章
 
 ### [如何在 Linux 下利用 Vim 搭建 C/C++ 开发环境?](https://www.zhihu.com/question/47691414/answer/373700711)
-
-## SpaceVim
 
 ### [How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel](https://castel.dev/post/lecture-notes-1/)
