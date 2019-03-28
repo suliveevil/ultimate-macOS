@@ -58,6 +58,34 @@ set tags=./.tags;,.tags
 
 ## SpaceVim
 
+```shell
+curl -sLf https://spacevim.org/install.sh | bash -s -- -h
+```
+
+```shell
+SpaceVim install script : V 1.0.0-dev
+
+Usage : curl -sLf https://spacevim.org/install.sh | bash -s -- [option] [target]
+
+  This is bootstrap script for SpaceVim.
+
+OPTIONS
+
+ -i, --install            install spacevim for vim or neovim
+ -v, --version            Show version information and exit
+ -u, --uninstall          Uninstall SpaceVim
+ -c, --checkRequirements  checkRequirements for SpaceVim
+
+EXAMPLE
+
+​    Install SpaceVim for vim and neovim
+​        curl -sLf https://spacevim.org/install.sh | bash
+​    Install SpaceVim for vim only or neovim only
+​        curl -sLf https://spacevim.org/install.sh | bash -s -- --install vim
+​        curl -sLf https://spacevim.org/install.sh | bash -s -- --install neovim
+​    Uninstall SpaceVim
+​        curl -sLf https://spacevim.org/install.sh | bash -s -- --uninstall
+```
 
 ## GUI软件
 
