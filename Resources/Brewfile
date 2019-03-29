@@ -1,4 +1,7 @@
 tap "buo/cask-upgrade"
+tap "candid82/brew"
+tap "caskroom/fonts"
+tap "dteoh/devdocs"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
@@ -11,6 +14,7 @@ tap "keith/formulae"
 tap "lukakerr/casks"
 tap "sambadevi/powerlevel9k"
 tap "timothyye/tap"
+tap "yqrashawn/goku"
 brew "advancecomp"
 brew "python"
 brew "icu4c"
@@ -24,6 +28,7 @@ brew "bat"
 brew "brainfuck"
 brew "cataclysm"
 brew "ccat"
+brew "cmake"
 brew "cmatrix"
 brew "cookiecutter"
 brew "coreutils"
@@ -53,6 +58,7 @@ brew "haskell-stack"
 brew "hstr"
 brew "htop"
 brew "imagemagick"
+brew "inetutils"
 brew "klavaro"
 brew "kubernetes-cli"
 brew "leptonica"
@@ -72,10 +78,12 @@ brew "mpg123"
 brew "nano"
 brew "neovim"
 brew "nethack"
+brew "ninja"
 brew "node"
 brew "openssh"
 brew "pandoc"
 brew "pdfgrep"
+brew "pipenv"
 brew "pngquant", args: ["HEAD"]
 brew "progress"
 brew "pv"
@@ -84,6 +92,7 @@ brew "qemu"
 brew "r"
 brew "rakudo-star"
 brew "ranger"
+brew "redis"
 brew "remind"
 brew "ripgrep"
 brew "rlwrap"
@@ -93,6 +102,7 @@ brew "shellcheck"
 brew "siege"
 brew "spark"
 brew "speedtest-cli"
+brew "supervisor"
 brew "tcl-tk"
 brew "tesseract"
 brew "the_silver_searcher"
@@ -113,13 +123,19 @@ brew "zsh-syntax-highlighting"
 brew "jesseduffield/lazygit/lazygit"
 brew "keith/formulae/reminders-cli"
 brew "timothyye/tap/ydict"
+brew "yqrashawn/goku/goku"
 cask "airdroid"
+cask "alfred"
+cask "anaconda"
 cask "anki"
 cask "anybar"
 cask "aria2gui"
 cask "astropad"
+cask "avira-antivirus"
 cask "background-music"
 cask "bbedit"
+cask "beaker-browser"
+cask "betterandbetter"
 cask "bilibili"
 cask "blender"
 cask "blockblock"
@@ -130,10 +146,12 @@ cask "dbeaver-community"
 cask "devdocs"
 cask "digikam"
 cask "do-not-disturb"
+cask "docker"
 cask "dozer"
 cask "drawio"
 cask "duet"
 cask "emacs"
+cask "ezip"
 cask "find-any-file"
 cask "firefox"
 cask "flash-npapi"
@@ -146,6 +164,8 @@ cask "font-noto-serif-cjk-sc"
 cask "font-source-code-pro"
 cask "fork"
 cask "free-download-manager"
+cask "freecad"
+cask "freeplane"
 cask "geany"
 cask "gimp"
 cask "github"
@@ -185,8 +205,10 @@ cask "macdown"
 cask "macs-fan-control"
 cask "mactex"
 cask "macvim"
+cask "mongodb"
 cask "motrix"
 cask "mtmr"
+cask "mysqlworkbench"
 cask "neteasemusic"
 cask "nutstore"
 cask "obs"
@@ -195,6 +217,7 @@ cask "onyx"
 cask "opera"
 cask "oracle-jdk"
 cask "oversight"
+cask "pencil2d"
 cask "phew"
 cask "platypus"
 cask "podcastmenu"
@@ -202,12 +225,14 @@ cask "pomotodo"
 cask "popmaker"
 cask "powershell-preview"
 cask "prefs-editor"
-cask "pycharm"
+cask "pycharm-ce"
 cask "qladdict"
 cask "qldds"
 cask "qlstephen"
 cask "qlvideo"
+cask "quicklook-json"
 cask "rcdefaultapp"
+cask "redis"
 cask "reggy"
 cask "reikey"
 cask "rescuetime"
@@ -218,12 +243,14 @@ cask "showyedge"
 cask "shuttle"
 cask "skim"
 cask "sloth"
+cask "snipaste"
 cask "sourcetree"
 cask "squirrel"
 cask "steam"
 cask "sublime-merge"
 cask "sublime-text"
 cask "suspicious-package"
+cask "syncthing"
 cask "taskexplorer"
 cask "teamviewer"
 cask "terminus"
@@ -241,118 +268,121 @@ cask "vlc"
 cask "wewechat"
 cask "whatpulse"
 cask "wireshark"
+cask "wiznote"
 cask "workflowy"
 cask "xquartz"
 cask "zotero"
 cask "josh-/qlscpt/qlscpt"
 cask "lukakerr/casks/pine"
-mas "2048 6x6", id: 892912527
-mas "AdBlock", id: 1402042596
-mas "Adblock Plus", id: 1432731683
-mas "AmazePhotos", id: 1441404964
-mas "Amphetamine", id: 937984704
-mas "App Language Chooser", id: 451732904
-mas "AppBeBack", id: 1317253465
-mas "Bandwidth+", id: 490461369
-mas "Bear", id: 1091189122
-mas "Bitwarden", id: 1352778147
-mas "Blackmagic Disk Speed Test", id: 425264550
-mas "CleanerForXcode", id: 1296084683
-mas "Cloud Outliner", id: 1066183430
-mas "Commander One", id: 1035236694
-mas "CotEditor", id: 1024640650
-mas "DaisyDisk", id: 411643860
-mas "DefaultLanguage", id: 1453278898
-mas "Digital Clock 3D", id: 661632558
-mas "DockTime", id: 508034739
-mas "Earth 3D", id: 476566660
-mas "Easy New File", id: 1162194131
-mas "Eudb_en", id: 402380914
-mas "Exporter", id: 1099120373
-mas "Fancy Text", id: 1454211033
-mas "fHash", id: 1055555711
-mas "Fleet", id: 1183559550
-mas "FSNotes", id: 1277179284
-mas "FutuNiuniuPro", id: 1058271449
-mas "Gapplin", id: 768053424
-mas "Gladys", id: 1382386877
-mas "Go2Shell", id: 445770608
-mas "HazeOver", id: 430798174
-mas "Helium", id: 1054607607
-mas "HeliumLift", id: 1018899653
-mas "Hex Fiend", id: 1342896380
-mas "iBooks Author", id: 490152466
-mas "iHex", id: 909566003
-mas "iHosts", id: 1102004240
-mas "Infographics Lab - Templates", id: 577411683
-mas "iStat Menus", id: 1319778037
-mas "iStatistica", id: 1025822138
-mas "iWall", id: 1214761683
-mas "iYingYue", id: 1050489667
-mas "Jietu", id: 1059334054
-mas "JSONModeler", id: 1143129421
-mas "Keka", id: 470158793
-mas "KeyboardLocker", id: 1444996429
-mas "Keymou", id: 449863619
-mas "Keynote", id: 409183694
-mas "Kindle", id: 405399194
-mas "Launchey 2", id: 1365625021
-mas "MacFamilyTree 8", id: 1037755919
-mas "Magic Sort List", id: 883969157
-mas "Maipo", id: 789066512
-mas "Mathpix Snipping Tool", id: 1349670778
-mas "Micro Snitch", id: 972028355
-mas "Microsoft Excel", id: 462058435
-mas "Microsoft PowerPoint", id: 462062816
-mas "Microsoft Word", id: 462054704
-mas "Mindfulness Bell Menu Bar", id: 1144260305
-mas "miniQpicview", id: 1314842898
-mas "Miroir", id: 985134131
-mas "Moom", id: 419330170
-mas "NotePlan", id: 1137020764
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "PiPifier", id: 1160374471
-mas "PopClip", id: 445189367
-mas "QQ", id: 451108668
-mas "QQMusic", id: 595615424
-mas "QR Creator Mini", id: 1185353935
-mas "QR Journal", id: 483820530
-mas "QuickMoveFile", id: 1414457383
-mas "Recording Lite", id: 1017198069
-mas "Request-Class", id: 1076223220
-mas "RMS sharing", id: 908570259
-mas "RunCat", id: 1429033973
-mas "ScreenShot PSD", id: 489880259
-mas "Shortcut Bar", id: 1148891783
-mas "SIDT", id: 1308724728
-mas "SketchBook", id: 863486266
-mas "Skitch", id: 425955336
-mas "SnippetsLab", id: 1006087419
-mas "Source Player Lite", id: 1444389594
-mas "Spark", id: 1176895641
-mas "Speedtest", id: 1153157709
-mas "Spelling Alphabet", id: 499351638
-mas "SubEthaEdit", id: 728530824
-mas "Telegram", id: 747648890
-mas "Termius", id: 1176074088
-mas "The Unarchiver", id: 425424353
-mas "Time Out", id: 402592703
-mas "Time Sink", id: 404363161
-mas "ting_en", id: 734383760
-mas "Trello", id: 1278508951
-mas "UniversalPlayerMac", id: 1331844018
-mas "VOX", id: 461369673
-mas "WeChat", id: 836500024
-mas "Wunderlist", id: 410628904
-mas "Xcode", id: 497799835
-mas "Yoink", id: 457622435
-mas "ZoomMe", id: 1437487517
-mas "ZoomNotes Desktop", id: 986761220
-mas "企业微信", id: 1189898970
-mas "优酷", id: 1014945607
-mas "印象笔记", id: 1356055347
-mas "开发者之刃", id: 1445645840
-mas "思诗", id: 1416483550
-mas "爱奇艺", id: 1012296988
-mas "讯飞语音输入", id: 1243368435
+mas "", id: 402380914
+mas "", id: 419330170
+mas "", id: 489880259
+mas "", id: 462054704
+mas "", id: 1243368435
+mas "", id: 985134131
+mas "", id: 1153157709
+mas "", id: 734383760
+mas "", id: 1349670778
+mas "", id: 1435957248
+mas "", id: 490461369
+mas "", id: 1099120373
+mas "", id: 1317253465
+mas "", id: 1183559550
+mas "", id: 1055555711
+mas "", id: 1402042596
+mas "", id: 1441404964
+mas "", id: 1054607607
+mas "", id: 457622435
+mas "", id: 836500024
+mas "", id: 1137020764
+mas "", id: 1017198069
+mas "", id: 789066512
+mas "", id: 986761220
+mas "", id: 1314842898
+mas "", id: 1437487517
+mas "", id: 1144260305
+mas "", id: 1012296988
+mas "", id: 1102004240
+mas "", id: 1444389594
+mas "", id: 1319778037
+mas "", id: 1185353935
+mas "", id: 1162194131
+mas "", id: 499351638
+mas "", id: 451732904
+mas "", id: 1058271449
+mas "", id: 1445645840
+mas "", id: 462058435
+mas "", id: 449863619
+mas "", id: 490152466
+mas "", id: 892912527
+mas "", id: 661632558
+mas "", id: 1457158844
+mas "", id: 577411683
+mas "", id: 863486266
+mas "", id: 411643860
+mas "", id: 1143129421
+mas "", id: 768053424
+mas "", id: 409203825
+mas "", id: 1214761683
+mas "", id: 1024640650
+mas "", id: 1331844018
+mas "", id: 1444996429
+mas "", id: 1382386877
+mas "", id: 909566003
+mas "", id: 476566660
+mas "", id: 1278508951
+mas "", id: 1076223220
+mas "", id: 508034739
+mas "", id: 462062816
+mas "", id: 1025822138
+mas "", id: 425264550
+mas "", id: 883969157
+mas "", id: 1148891783
+mas "", id: 1035236694
+mas "", id: 1454211033
+mas "", id: 1006087419
+mas "", id: 1416483550
+mas "", id: 1050489667
+mas "", id: 972028355
+mas "", id: 1342896380
+mas "", id: 1037755919
+mas "", id: 1176895641
+mas "", id: 1414457383
+mas "", id: 451108668
+mas "", id: 1432731683
+mas "", id: 410628904
+mas "", id: 404363161
+mas "", id: 445189367
+mas "", id: 1296084683
+mas "", id: 425424353
+mas "", id: 1189898970
+mas "", id: 728530824
+mas "", id: 1453278898
+mas "", id: 405399194
+mas "", id: 1365625021
+mas "", id: 1429033973
+mas "", id: 1014945607
+mas "", id: 1160374471
+mas "", id: 908570259
+mas "", id: 461369673
+mas "", id: 595615424
+mas "", id: 1308724728
+mas "", id: 409183694
+mas "", id: 402592703
+mas "", id: 425955336
+mas "", id: 747648890
+mas "", id: 1277179284
+mas "", id: 1352778147
+mas "", id: 1018899653
+mas "", id: 918486500
+mas "", id: 1356055347
+mas "", id: 409201541
+mas "", id: 430798174
+mas "", id: 1066183430
+mas "", id: 470158793
+mas "", id: 937984704
+mas "", id: 445770608
+mas "", id: 1059334054
+mas "", id: 483820530
+mas "", id: 497799835
+mas "", id: 1176074088
