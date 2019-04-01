@@ -8,6 +8,7 @@ backcall==0.1.0
 beautifulsoup4==4.7.1
 black==19.3b0
 bleach==3.1.0
+bs4==0.0.1
 certifi==2019.3.9
 chardet==3.0.4
 Click==7.0
@@ -20,6 +21,7 @@ decorator==4.4.0
 defusedxml==0.5.0
 Django==2.1.7
 entrypoints==0.3
+fake-useragent==0.1.11
 flake8==3.7.7
 Flask==1.0.2
 idna==2.8
@@ -30,6 +32,7 @@ ipywidgets==7.4.2
 isort==4.3.15
 itsdangerous==1.1.0
 jedi==0.13.3
+jieba==0.39
 Jinja2==2.10
 jsonschema==3.0.1
 jupyter-client==5.2.4
@@ -52,6 +55,7 @@ numpy==1.16.2
 pandas==0.24.2
 pandoc==1.0.2
 pandocfilters==1.4.2
+parse==1.11.1
 parso==0.3.4
 pexpect==4.6.0
 pickleshare==0.7.5
@@ -68,12 +72,14 @@ py-stackexchange==2.2.7
 pycairo==1.18.0
 pycallgraph==1.0.1
 pycodestyle==2.5.0
+pyee==5.0.0
 pyflakes==2.1.1
 pygame==1.9.4
 Pygments==2.3.1
 PyGObject==3.32.0
 pylint==2.3.1
 pyparsing==2.3.1
+pyppeteer==0.0.25
 pyquery==1.4.0
 pyrsistent==0.14.11
 pytesseract==0.2.6
@@ -82,6 +88,7 @@ python-dateutil==2.8.0
 pytz==2018.9
 pyzmq==18.0.1
 requests==2.21.0
+requests-html==0.10.0
 retrying==1.3.3
 scipy==1.2.1
 Send2Trash==1.5.0
@@ -92,13 +99,17 @@ sympy==1.3
 terminado==0.8.2
 testpath==0.4.2
 toml==0.10.0
+torch==1.0.1.post2
 tornado==6.0.2
+tqdm==4.31.1
 traitlets==4.3.2
 typed-ast==1.3.1
 urllib3==1.24.1
 urwid==2.0.1
+w3lib==1.20.0
 wcwidth==0.1.7
 webencodings==0.5.1
+websockets==7.0
 Werkzeug==0.15.1
 widgetsnbextension==3.4.2
 wrapt==1.11.1
