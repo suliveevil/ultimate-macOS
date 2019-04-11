@@ -68,6 +68,7 @@ brew "klavaro"
 brew "kubernetes-cli"
 brew "leptonica"
 brew "libgit2"
+brew "libusb-compat"
 brew "llvm"
 brew "lolcat"
 brew "lsof"
@@ -144,7 +145,6 @@ cask "betterandbetter"
 cask "bilibili"
 cask "blender"
 cask "blockblock"
-cask "boinc"
 cask "calibre"
 cask "cyberduck"
 cask "db-browser-for-sqlite"
@@ -219,6 +219,7 @@ cask "motrix"
 cask "mtmr"
 cask "mysqlworkbench"
 cask "neteasemusic"
+cask "nomachine"
 cask "nutstore"
 cask "obs"
 cask "omnidisksweeper"
@@ -243,6 +244,7 @@ cask "qlimagesize"
 cask "qlplayground"
 cask "qlstephen"
 cask "qlvideo"
+cask "qq"
 cask "qqlive"
 cask "quicklook-json"
 cask "rcdefaultapp"
@@ -297,11 +299,14 @@ mas "Bitwarden", id: 1352778147
 mas "build.bru.MacGladys", id: 1382386877
 mas "Cloud Outliner", id: 1066183430
 mas "co.noteplan.NotePlan", id: 1137020764
+mas "com.3Planesoft.Earth101forMac", id: 609649363
 mas "com.alice.mac.go2shell", id: 445770608
 mas "com.amazon.Kindle", id: 405399194
 mas "com.aone.keka", id: 470158793
 mas "com.apple.iBooksAuthor", id: 490152466
+mas "com.appyogi.quicklinks", id: 1200685619
 mas "com.ashen.iosdevtools", id: 1445645840
+mas "com.barebones.bbedit", id: 404009241
 mas "com.betafish.adblock-mac", id: 1402042596
 mas "com.bjango.istatmenus.mas", id: 1319778037
 mas "com.blackmagic-design.DiskSpeedTest", id: 425264550
@@ -340,9 +345,9 @@ mas "com.renfei.SnippetsLab", id: 1006087419
 mas "com.ridiculousfish.HexFiend", id: 1342896380
 mas "com.shawn.jsonmodeler", id: 1143129421
 mas "com.syniumsoftware.macfamilytree8", id: 1037755919
-mas "com.tencent.qq", id: 451108668
 mas "com.tunabellysoftware.spellingalphabet", id: 499351638
 mas "com.txtlabs.screenshotpsd", id: 489880259
+mas "com.vanejung.pomy", id: 1422640635
 mas "com.vklyusko.KeyboardLocker", id: 1444996429
 mas "com.wolfrosch.Gapplin", id: 768053424
 mas "com.youku.mac", id: 1014945607
@@ -380,7 +385,6 @@ mas "SIDT", id: 1308724728
 mas "SketchBook", id: 863486266
 mas "Source Player Lite", id: 1444389594
 mas "Termius", id: 1176074088
-mas "Time Out", id: 402592703
 mas "Trello", id: 1278508951
 mas "VOX", id: 461369673
 mas "whbalzac.SiShi-macOS", id: 1416483550
