@@ -39,7 +39,7 @@ brew "cowsay"
 brew "curseofwar"
 brew "darksky-weather"
 brew "diffuse"
-brew "emacs"
+brew "emacs", link: false
 brew "libtool"
 brew "graphviz"
 brew "pkg-config"
@@ -60,6 +60,7 @@ brew "gnupg"
 brew "go"
 brew "googler"
 brew "haskell-stack"
+brew "highlight"
 brew "hstr"
 brew "htop"
 brew "imagemagick"
@@ -235,18 +236,25 @@ cask "pomotodo"
 cask "popmaker"
 cask "powershell-preview"
 cask "prefs-editor"
+cask "provisionql"
 cask "pycharm-ce"
 cask "qladdict"
 cask "qlcolorcode"
 cask "qldds"
 cask "qlgradle"
 cask "qlimagesize"
+cask "qlmarkdown"
 cask "qlplayground"
+cask "qlprettypatch"
 cask "qlstephen"
 cask "qlvideo"
 cask "qq"
 cask "qqlive"
+cask "quickjson"
+cask "quicklook-csv"
 cask "quicklook-json"
+cask "quicklookapk"
+cask "quicklookase"
 cask "rcdefaultapp"
 cask "redis"
 cask "reggy"
@@ -264,6 +272,7 @@ cask "snipaste"
 cask "sourcetree"
 cask "squirrel"
 cask "steam"
+cask "stringsfile"
 cask "sublime-merge"
 cask "sublime-text"
 cask "suspicious-package"
@@ -282,6 +291,7 @@ cask "vagrant"
 cask "vimr"
 cask "visual-studio-code"
 cask "vlc"
+cask "webpquicklook"
 cask "wewechat"
 cask "whatpulse"
 cask "wireshark"
@@ -335,6 +345,8 @@ mas "com.macpawlabs.appbebackmas", id: 1317253465
 mas "com.manytricks.Keymo", id: 449863619
 mas "com.manytricks.Moom", id: 419330170
 mas "com.manytricks.TimeSinkClient", id: 404363161
+mas "com.microsoft.Powerpoint", id: 462062816
+mas "com.microsoft.Word", id: 462054704
 mas "com.mindfulnessbellmenubar.ios", id: 1144260305
 mas "com.naarak.ScherlokkLite", id: 918486500
 mas "com.ookla.speedtest-macos", id: 1153157709
@@ -370,8 +382,6 @@ mas "Keynote 讲演", id: 409183694
 mas "Maipo", id: 789066512
 mas "Mathpix Snipping Tool", id: 1349670778
 mas "Microsoft Excel", id: 462058435
-mas "Microsoft PowerPoint", id: 462062816
-mas "Microsoft Word", id: 462054704
 mas "Numbers 表格", id: 409203825
 mas "org.adblockplus.adblockplussafarimac", id: 1432731683
 mas "org.brunovandekerkhove.mirror", id: 985134131
