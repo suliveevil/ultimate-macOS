@@ -1,5 +1,6 @@
 tap "buo/cask-upgrade"
 tap "candid82/brew"
+tap "caskroom/cask"
 tap "caskroom/fonts"
 tap "cjbassi/gotop"
 tap "dteoh/devdocs"
@@ -38,6 +39,8 @@ brew "coreutils"
 brew "cowsay"
 brew "curseofwar"
 brew "darksky-weather"
+brew "libusb-compat"
+brew "dfu-programmer"
 brew "diffuse"
 brew "emacs", link: false
 brew "libtool"
@@ -69,7 +72,6 @@ brew "klavaro"
 brew "kubernetes-cli"
 brew "leptonica"
 brew "libgit2"
-brew "libusb-compat"
 brew "llvm"
 brew "lolcat"
 brew "lsof"
@@ -147,6 +149,7 @@ cask "bilibili"
 cask "blender"
 cask "blockblock"
 cask "calibre"
+cask "crosspack-avr"
 cask "cyberduck"
 cask "db-browser-for-sqlite"
 cask "dbeaver-community"
@@ -201,11 +204,13 @@ cask "kextviewr"
 cask "keyboard-maestro"
 cask "keyboardcleantool"
 cask "keycastr"
+cask "kicad"
 cask "kindlegen"
 cask "knockknock"
 cask "lantern"
 cask "latest"
 cask "launchbar"
+cask "librecad"
 cask "libreoffice"
 cask "libreoffice-language-pack"
 cask "licecap"
@@ -327,8 +332,10 @@ mas "com.ctmdev.App-Language-Chooser", id: 451732904
 mas "com.dhtech.mac.Wallpaper", id: 1214761683
 mas "com.eltima.cmd1.mas", id: 1035236694
 mas "com.fiplab.shortcutbar", id: 1148891783
+mas "com.gingerlabs.NotabilityMac", id: 736189492
 mas "com.hanwe.DefaultLanguage", id: 1453278898
 mas "com.hewbo.hexeditor", id: 909566003
+mas "com.iconshots.epsviewer", id: 1172866932
 mas "com.if.Amphetamine", id: 937984704
 mas "com.iflytek.macinput", id: 1243368435
 mas "com.imthekingofmac.ZoomMe", id: 1437487517
@@ -356,6 +363,7 @@ mas "com.readdle.smartemail-Mac", id: 1176895641
 mas "com.renfei.SnippetsLab", id: 1006087419
 mas "com.ridiculousfish.HexFiend", id: 1342896380
 mas "com.shawn.jsonmodeler", id: 1143129421
+mas "com.solidworks.edrawingsmac", id: 1209754386
 mas "com.syniumsoftware.macfamilytree8", id: 1037755919
 mas "com.tunabellysoftware.spellingalphabet", id: 499351638
 mas "com.txtlabs.screenshotpsd", id: 489880259
