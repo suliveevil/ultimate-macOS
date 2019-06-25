@@ -26,6 +26,7 @@ brew "python"
 brew "icu4c"
 brew "archey"
 brew "autoconf-archive"
+brew "autojump"
 brew "automake"
 brew "libusb-compat"
 brew "avrdude"
@@ -45,12 +46,15 @@ brew "cowsay"
 brew "curseofwar"
 brew "darksky-weather"
 brew "dfu-programmer"
+brew "dfu-util"
 brew "diffuse"
 brew "duti"
 brew "emacs", link: false
 brew "libtool"
 brew "graphviz"
 brew "pkg-config"
+brew "qt", link: true
+brew "poppler"
 brew "evince"
 brew "fd"
 brew "node"
@@ -94,6 +98,7 @@ brew "neovim"
 brew "nethack"
 brew "ninja"
 brew "openssh"
+brew "pacvim"
 brew "pandoc"
 brew "pdfgrep"
 brew "pipenv"
@@ -105,7 +110,7 @@ brew "qemu"
 brew "r"
 brew "rakudo-star"
 brew "ranger"
-brew "redis"
+brew "redis", link: false
 brew "remind"
 brew "ripgrep"
 brew "rlwrap"
@@ -136,10 +141,12 @@ brew "zsh-syntax-highlighting"
 brew "cjbassi/gotop/gotop"
 brew "jesseduffield/lazygit/lazygit"
 brew "keith/formulae/reminders-cli"
-brew "osx-cross/avr/avr-gcc"
+brew "osx-cross/avr/avr-gcc", link: false
+brew "osx-cross/avr/avr-gcc@7", link: true
 brew "px4/px4/gcc-arm-none-eabi"
 brew "timothyye/tap/ydict"
 brew "yqrashawn/goku/goku"
+cask "actprinter"
 cask "airdroid"
 cask "alacritty"
 cask "alfred"
@@ -168,6 +175,7 @@ cask "docker"
 cask "dozer"
 cask "drawio"
 cask "duet"
+cask "eagle"
 cask "emacs"
 cask "ezip"
 cask "find-any-file"
@@ -214,6 +222,7 @@ cask "keyboardcleantool"
 cask "keycastr"
 cask "kicad"
 cask "kindlegen"
+cask "kite"
 cask "knockknock"
 cask "lantern"
 cask "latest"
@@ -238,7 +247,6 @@ cask "nutstore"
 cask "obs"
 cask "omnidisksweeper"
 cask "onyx"
-cask "opera"
 cask "oracle-jdk"
 cask "oversight"
 cask "pencil2d"
@@ -247,7 +255,6 @@ cask "platypus"
 cask "podcastmenu"
 cask "pomotodo"
 cask "popmaker"
-cask "powershell-preview"
 cask "prefs-editor"
 cask "provisionql"
 cask "pycharm-ce"
@@ -261,6 +268,7 @@ cask "qlplayground"
 cask "qlprettypatch"
 cask "qlstephen"
 cask "qlvideo"
+cask "qmk-toolbox"
 cask "qq"
 cask "qqlive"
 cask "quickjson"
@@ -295,6 +303,7 @@ cask "teamviewer"
 cask "terminus"
 cask "tex-live-utility"
 cask "textmate"
+cask "thunder"
 cask "thunderbird"
 cask "tickeys"
 cask "typora"
@@ -303,6 +312,7 @@ cask "upterm"
 cask "usage"
 cask "vagrant"
 cask "vimr"
+cask "virtualbox"
 cask "visual-studio-code"
 cask "vlc"
 cask "webpquicklook"
@@ -312,126 +322,134 @@ cask "wireshark"
 cask "wiznote"
 cask "workflowy"
 cask "xquartz"
+cask "zettlr"
 cask "zotero"
 cask "josh-/qlscpt/qlscpt"
 cask "lukakerr/casks/pine"
-mas "Astrvm.Vitriolvm.QR-CreatorMini", id: 1185353935
-mas "at.EternalStorms.Yoink", id: 457622435
-mas "at.obdev.MicroSnitch", id: 972028355
-mas "au.id.haroldchu.mac.Bandwidth", id: 490461369
+mas "2048 6x6", id: 892912527
+mas "AdBlock", id: 1402042596
+mas "Adblock Plus", id: 1432731683
+mas "Amphetamine", id: 937984704
+mas "App Language Chooser", id: 451732904
+mas "AppBeBack", id: 1317253465
+mas "Bandwidth+", id: 490461369
+mas "BBEdit", id: 404009241
 mas "Bitwarden", id: 1352778147
-mas "build.bru.MacGladys", id: 1382386877
+mas "CleanerForXcode", id: 1296084683
 mas "Cloud Outliner", id: 1066183430
-mas "co.noteplan.NotePlan", id: 1137020764
-mas "com.3Planesoft.Earth101forMac", id: 609649363
 mas "com.alice.mac.go2shell", id: 445770608
-mas "com.amazon.Kindle", id: 405399194
-mas "com.aone.keka", id: 470158793
-mas "com.apple.iBooksAuthor", id: 490152466
-mas "com.appyogi.quicklinks", id: 1200685619
-mas "com.ashen.iosdevtools", id: 1445645840
-mas "com.barebones.bbedit", id: 404009241
-mas "com.betafish.adblock-mac", id: 1402042596
-mas "com.bjango.istatmenus.mas", id: 1319778037
-mas "com.blackmagic-design.DiskSpeedTest", id: 425264550
-mas "com.chintanghate.Notes-Exporter", id: 1099120373
-mas "com.completemagic.magicsortlist", id: 883969157
-mas "com.coteditor.CotEditor", id: 1024640650
-mas "com.ctmdev.App-Language-Chooser", id: 451732904
-mas "com.dhtech.mac.Wallpaper", id: 1214761683
-mas "com.eltima.cmd1.mas", id: 1035236694
-mas "com.fiplab.shortcutbar", id: 1148891783
-mas "com.gingerlabs.NotabilityMac", id: 736189492
-mas "com.hanwe.DefaultLanguage", id: 1453278898
-mas "com.hewbo.hexeditor", id: 909566003
-mas "com.iconshots.epsviewer", id: 1172866932
-mas "com.if.Amphetamine", id: 937984704
-mas "com.iflytek.macinput", id: 1243368435
-mas "com.imthekingofmac.ZoomMe", id: 1437487517
-mas "com.iqiyi.player", id: 1012296988
-mas "com.JadenGeller.Helium", id: 1054607607
-mas "com.jgronek.Launchey-2", id: 1365625021
-mas "com.jmitch.heliumlift", id: 1018899653
-mas "com.joshjacob.qrjournal", id: 483820530
-mas "com.jumsoft.infographics", id: 577411683
-mas "com.kfir.mac20486x6", id: 892912527
-mas "com.kyome.RunCat", id: 1429033973
-mas "com.liupeng.mac.FinderMenu", id: 1162194131
-mas "com.macpawlabs.appbebackmas", id: 1317253465
-mas "com.manytricks.Keymo", id: 449863619
-mas "com.manytricks.Moom", id: 419330170
-mas "com.manytricks.TimeSinkClient", id: 404363161
-mas "com.microsoft.Powerpoint", id: 462062816
-mas "com.microsoft.Word", id: 462054704
-mas "com.mindfulnessbellmenubar.ios", id: 1144260305
-mas "com.naarak.ScherlokkLite", id: 918486500
-mas "com.ookla.speedtest-macos", id: 1153157709
-mas "com.pilotmoon.popclip", id: 445189367
-mas "com.pointum.hazeover", id: 430798174
-mas "com.readdle.smartemail-Mac", id: 1176895641
-mas "com.remotemouse.remotemouseserver", id: 403195710
-mas "com.renfei.SnippetsLab", id: 1006087419
-mas "com.ridiculousfish.HexFiend", id: 1342896380
-mas "com.shawn.jsonmodeler", id: 1143129421
-mas "com.solidworks.edrawingsmac", id: 1209754386
-mas "com.syniumsoftware.macfamilytree8", id: 1037755919
-mas "com.tunabellysoftware.spellingalphabet", id: 499351638
-mas "com.txtlabs.screenshotpsd", id: 489880259
-mas "com.vanejung.pomy", id: 1422640635
-mas "com.vklyusko.KeyboardLocker", id: 1444996429
-mas "com.wolfrosch.Gapplin", id: 768053424
-mas "com.youku.mac", id: 1014945607
-mas "com.zoomnotes.ZoomNotesX", id: 986761220
-mas "cx.c3.theunarchiver", id: 425424353
+mas "Commander One", id: 1035236694
+mas "CotEditor", id: 1024640650
+mas "Cursor Pro", id: 1447043133
 mas "DaisyDisk", id: 411643860
-mas "de.APPenzeller.PiPifier", id: 1160374471
-mas "de.codingmonkeys.SubEthaEdit.Mac", id: 728530824
-mas "de.ixeau.CursorPro", id: 1447043133
-mas "de.pecora.iClock", id: 508034739
+mas "DefaultLanguage", id: 1453278898
 mas "Digital Clock 3D", id: 661632558
+mas "Disk Speed Test", id: 425264550
+mas "DockTime", id: 508034739
 mas "Drafts", id: 1435957248
 mas "Earth 3D", id: 476566660
+mas "Earth 3D - World Atlas", id: 609649363
+mas "Easy New File", id: 1162194131
+mas "eDrawings", id: 1209754386
+mas "Exporter", id: 1099120373
+mas "fHash", id: 1055555711
 mas "Fleet", id: 1183559550
 mas "FSNotes", id: 1277179284
+mas "Gapplin", id: 768053424
+mas "Gladys", id: 1382386877
+mas "HandShaker", id: 1012930195
+mas "HazeOver", id: 430798174
+mas "Helium", id: 1054607607
+mas "HeliumLift", id: 1018899653
+mas "Hex Fiend", id: 1342896380
+mas "iBooks Author", id: 490152466
+mas "iHex", id: 909566003
 mas "iHosts", id: 1102004240
-mas "imagetasks.iStatistica", id: 1025822138
-mas "io.hyperapp.XcodeCleaner", id: 1296084683
+mas "Infographics Lab - Templates", id: 577411683
+mas "iScherlokk Lite", id: 918486500
+mas "iStat Menus", id: 1319778037
+mas "iStatistica", id: 1025822138
+mas "iWall", id: 1214761683
+mas "JSONModeler", id: 1143129421
+mas "Keka", id: 470158793
+mas "KeyboardLocker", id: 1444996429
+mas "Keymou", id: 449863619
 mas "Keynote 讲演", id: 409183694
+mas "Kindle", id: 405399194
+mas "Launchey 2", id: 1365625021
+mas "MacFamilyTree 8", id: 1037755919
+mas "Magic Sort List", id: 883969157
+mas "Magnet", id: 441258766
 mas "Maipo", id: 789066512
 mas "Mathpix Snipping Tool", id: 1349670778
+mas "Micro Snitch", id: 972028355
 mas "Microsoft Excel", id: 462058435
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
+mas "Mindfulness Bell Menu Bar", id: 1144260305
+mas "Miroir", id: 985134131
+mas "Moom", id: 419330170
+mas "MWeb", id: 1403919533
+mas "Notability", id: 736189492
 mas "Numbers 表格", id: 409203825
-mas "org.adblockplus.adblockplussafarimac", id: 1432731683
-mas "org.brunovandekerkhove.mirror", id: 985134131
-mas "org.sunjw.fHashMacUI", id: 1055555711
 mas "Pages 文稿", id: 409201541
+mas "Perculia", id: 1462633284
 mas "PinPoint", id: 408265505
+mas "PiPifier", id: 1160374471
+mas "PixelScheduler", id: 976996075
+mas "Pomy", id: 1422640635
+mas "PopClip", id: 445189367
+mas "QQ", id: 451108668
+mas "QQ影音", id: 1467163328
 mas "QQ音乐", id: 595615424
+mas "QR Creator Mini", id: 1185353935
+mas "QR Journal", id: 483820530
+mas "QuickLinks", id: 1200685619
+mas "Rearview", id: 1459730659
+mas "Remote Mouse", id: 403195710
 mas "RMS 共享", id: 908570259
-mas "ru.keepcoder.Telegram", id: 747648890
+mas "RunCat", id: 1429033973
+mas "ScreenShot PSD", id: 489880259
+mas "Shortcut Bar", id: 1148891783
 mas "SIDT", id: 1308724728
 mas "SketchBook", id: 863486266
+mas "Skitch", id: 425955336
+mas "SnippetsLab", id: 1006087419
 mas "Source Player Lite", id: 1444389594
+mas "Spark", id: 1176895641
+mas "Speedtest", id: 1153157709
+mas "Spelling Alphabet", id: 499351638
+mas "SubEthaEdit", id: 728530824
+mas "Telegram", id: 747648890
 mas "Termius", id: 1176074088
+mas "The Unarchiver", id: 425424353
+mas "Time Sink", id: 404363161
 mas "Trello", id: 1278508951
+mas "VectorView", id: 1172866932
 mas "VOX", id: 461369673
-mas "whbalzac.SiShi-macOS", id: 1416483550
 mas "Xcode", id: 497799835
 mas "XMaker", id: 1076223220
+mas "Yoink", id: 457622435
+mas "ZoomMe", id: 1437487517
+mas "ZoomNotes Desktop", id: 986761220
 mas "企业微信", id: 1189898970
 mas "休息一下", id: 1457158844
+mas "优酷", id: 1014945607
 mas "印象笔记", id: 1356055347
-mas "圈点", id: 425955336
 mas "奇妙清单", id: 410628904
 mas "富途牛牛尊享版", id: 1058271449
+mas "开发者之刃", id: 1445645840
 mas "录音机", id: 1017198069
 mas "微信", id: 836500024
+mas "思诗", id: 1416483550
 mas "截图", id: 1059334054
 mas "搬文工", id: 1414457383
 mas "欧路词典", id: 402380914
 mas "每日英语听力", id: 734383760
+mas "爱奇艺", id: 1012296988
 mas "爱奇艺万能播放器", id: 1331844018
 mas "爱英阅", id: 1050489667
 mas "看图", id: 1314842898
 mas "神奇相册", id: 1441404964
 mas "花样文字", id: 1454211033
+mas "讯飞语音输入", id: 1243368435
