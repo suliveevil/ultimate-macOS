@@ -1,8 +1,0 @@
-# Emacs Spacemacs
-
-## Emacs
-
-
-
-## Spacemacs
-
