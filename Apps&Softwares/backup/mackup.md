@@ -1,5 +1,7 @@
 # mackup
 
+macOS/Linux 软件同步
+
 [TOC]
 
 ## 使用
