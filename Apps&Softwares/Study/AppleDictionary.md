@@ -24,5 +24,7 @@
 
 ## 参考
 
+### http://mac-dict.xyz/
+
 ### [其他词典资源区 Other Dictionaries 掌上百科 PDAWIKI](https://www.pdawiki.com/forum/forum.php?mod=forumdisplay&fid=106)
 
