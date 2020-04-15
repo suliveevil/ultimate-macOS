@@ -1,0 +1,74 @@
+vbdeMacBook-Pro:~ vb$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+==> This script will install:
+/usr/local/bin/brew
+/usr/local/share/doc/homebrew
+/usr/local/share/man/man1/brew.1
+/usr/local/share/zsh/site-functions/_brew
+/usr/local/etc/bash_completion.d/brew
+/usr/local/Homebrew
+==> The following new directories will be created:
+/usr/local/bin
+/usr/local/etc
+/usr/local/include
+/usr/local/lib
+/usr/local/sbin
+/usr/local/share
+/usr/local/var
+/usr/local/opt
+/usr/local/share/zsh
+/usr/local/share/zsh/site-functions
+/usr/local/var/homebrew
+/usr/local/var/homebrew/linked
+/usr/local/Cellar
+/usr/local/Caskroom
+/usr/local/Homebrew
+/usr/local/Frameworks
+==> The Xcode Command Line Tools will be installed.
+
+Press RETURN to continue or any other key to abort
+Password:
+==> /usr/bin/sudo /bin/mkdir -p /usr/local/bin /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/share /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Homebrew /usr/local/Frameworks
+==> /usr/bin/sudo /bin/chmod g+rwx /usr/local/bin /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/share /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Homebrew /usr/local/Frameworks
+==> /usr/bin/sudo /usr/sbin/chown vb /usr/local/bin /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/share /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Homebrew /usr/local/Frameworks
+==> /usr/bin/sudo /usr/bin/chgrp admin /usr/local/bin /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/share /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Homebrew /usr/local/Frameworks
+==> /usr/bin/sudo /bin/mkdir -p /Users/vb/Library/Caches/Homebrew
+==> /usr/bin/sudo /bin/chmod g+rwx /Users/vb/Library/Caches/Homebrew
+==> /usr/bin/sudo /usr/sbin/chown vb /Users/vb/Library/Caches/Homebrew
+==> Searching online for the Command Line Tools
+==> /usr/bin/sudo /usr/bin/touch /tmp/.com.apple.dt.CommandLineTools.installondemand.in-progress
+==> Installing Command Line Tools (macOS Mojave version 10.14) for Xcode-10.3
+==> /usr/bin/sudo /usr/sbin/softwareupdate -i Command\ Line\ Tools\ (macOS\ Mojave\ version\ 10.14)\ for\ Xcode-10.3
+Software Update Tool
+
+
+Downloading Command Line Tools (macOS Mojave version 10.14) for Xcode
+Downloaded Command Line Tools (macOS Mojave version 10.14) for Xcode
+Installing Command Line Tools (macOS Mojave version 10.14) for Xcode
+Done with Command Line Tools (macOS Mojave version 10.14) for Xcode
+Done.
+==> /usr/bin/sudo /bin/rm -f /tmp/.com.apple.dt.CommandLineTools.installondemand.in-progress
+==> /usr/bin/sudo /usr/bin/xcode-select --switch /Library/Developer/CommandLineTools
+==> Downloading and installing Homebrew...
+remote: Enumerating objects: 71, done.
+remote: Counting objects: 100% (71/71), done.
+remote: Compressing objects: 100% (67/67), done.
+error: RPC failed; curl 18 transfer closed with outstanding read data remaining
+fatal: the remote end hung up unexpectedly
+fatal: early EOF
+fatal: index-pack failed
+Failed during: git fetch origin --force
+==> Installation successful!
+
+==> Homebrew has enabled anonymous aggregate formulae and cask analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics data has been sent yet (or will be during this `install` run).
+
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+==> Next steps:
+- Run `brew help` to get started
+- Further documentation: 
+    https://docs.brew.sh
+vbdeMacBook-Pro:~ vb$ 
