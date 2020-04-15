@@ -1,4 +1,8 @@
 # Terrminal
+
+all commands
+
+```shell
 vbdeMacBook-Pro:~ vb$ 
 Display all 1360 possibilities? (y or n)
 !
@@ -1354,3 +1358,4 @@ zprint
 zsh
 {
 }
+```
