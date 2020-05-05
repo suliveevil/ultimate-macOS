@@ -2,12 +2,24 @@
 
 [TOC]
 
+## ssh-keygen
+
+
+```shell
+ssh-keygen -t -C "your@email.com"
+
+cat /root/.ssh/id_rsa
+```
+复制粘贴到 GitHub
+
+
+```shell
+git config 
+
+```
 
 
 ## commit 迁移
-
-
-
 
 
 
